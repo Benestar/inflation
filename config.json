@@ -1,0 +1,4 @@
+{
+    "base_url": "https://www-genesis.destatis.de/genesisWS/rest/2020",
+    "data_dir": "www/data"
+}

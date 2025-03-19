@@ -1,0 +1,2522 @@
+[
+  {
+    "label": "Januar 1991",
+    "price": 60.5,
+    "prev_year": null,
+    "prev_month": null
+  },
+  {
+    "label": "Februar 1991",
+    "price": 60.8,
+    "prev_year": null,
+    "prev_month": 0.5
+  },
+  {
+    "label": "M\u00e4rz 1991",
+    "price": 60.8,
+    "prev_year": null,
+    "prev_month": null
+  },
+  {
+    "label": "April 1991",
+    "price": 61.0,
+    "prev_year": null,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Mai 1991",
+    "price": 61.1,
+    "prev_year": null,
+    "prev_month": 0.2
+  },
+  {
+    "label": "Juni 1991",
+    "price": 61.5,
+    "prev_year": null,
+    "prev_month": 0.7
+  },
+  {
+    "label": "Juli 1991",
+    "price": 62.2,
+    "prev_year": null,
+    "prev_month": 1.1
+  },
+  {
+    "label": "August 1991",
+    "price": 62.2,
+    "prev_year": null,
+    "prev_month": null
+  },
+  {
+    "label": "September 1991",
+    "price": 62.2,
+    "prev_year": null,
+    "prev_month": null
+  },
+  {
+    "label": "Oktober 1991",
+    "price": 63.2,
+    "prev_year": null,
+    "prev_month": 1.6
+  },
+  {
+    "label": "November 1991",
+    "price": 63.4,
+    "prev_year": null,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Dezember 1991",
+    "price": 63.5,
+    "prev_year": null,
+    "prev_month": 0.2
+  },
+  {
+    "label": "Januar 1992",
+    "price": 63.9,
+    "prev_year": 5.6,
+    "prev_month": 0.6
+  },
+  {
+    "label": "Februar 1992",
+    "price": 64.3,
+    "prev_year": 5.8,
+    "prev_month": 0.6
+  },
+  {
+    "label": "M\u00e4rz 1992",
+    "price": 64.5,
+    "prev_year": 6.1,
+    "prev_month": 0.3
+  },
+  {
+    "label": "April 1992",
+    "price": 64.7,
+    "prev_year": 6.1,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Mai 1992",
+    "price": 64.9,
+    "prev_year": 6.2,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Juni 1992",
+    "price": 65.1,
+    "prev_year": 5.9,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Juli 1992",
+    "price": 65.3,
+    "prev_year": 5.0,
+    "prev_month": 0.3
+  },
+  {
+    "label": "August 1992",
+    "price": 65.3,
+    "prev_year": 5.0,
+    "prev_month": null
+  },
+  {
+    "label": "September 1992",
+    "price": 65.3,
+    "prev_year": 5.0,
+    "prev_month": null
+  },
+  {
+    "label": "Oktober 1992",
+    "price": 65.3,
+    "prev_year": 3.3,
+    "prev_month": null
+  },
+  {
+    "label": "November 1992",
+    "price": 65.6,
+    "prev_year": 3.5,
+    "prev_month": 0.5
+  },
+  {
+    "label": "Dezember 1992",
+    "price": 65.7,
+    "prev_year": 3.5,
+    "prev_month": 0.2
+  },
+  {
+    "label": "Januar 1993",
+    "price": 66.8,
+    "prev_year": 4.5,
+    "prev_month": 1.7
+  },
+  {
+    "label": "Februar 1993",
+    "price": 67.3,
+    "prev_year": 4.7,
+    "prev_month": 0.7
+  },
+  {
+    "label": "M\u00e4rz 1993",
+    "price": 67.5,
+    "prev_year": 4.7,
+    "prev_month": 0.3
+  },
+  {
+    "label": "April 1993",
+    "price": 67.7,
+    "prev_year": 4.6,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Mai 1993",
+    "price": 67.8,
+    "prev_year": 4.5,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Juni 1993",
+    "price": 68.0,
+    "prev_year": 4.5,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Juli 1993",
+    "price": 68.3,
+    "prev_year": 4.6,
+    "prev_month": 0.4
+  },
+  {
+    "label": "August 1993",
+    "price": 68.3,
+    "prev_year": 4.6,
+    "prev_month": null
+  },
+  {
+    "label": "September 1993",
+    "price": 68.2,
+    "prev_year": 4.4,
+    "prev_month": -0.1
+  },
+  {
+    "label": "Oktober 1993",
+    "price": 68.2,
+    "prev_year": 4.4,
+    "prev_month": null
+  },
+  {
+    "label": "November 1993",
+    "price": 68.3,
+    "prev_year": 4.1,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Dezember 1993",
+    "price": 68.5,
+    "prev_year": 4.3,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Januar 1994",
+    "price": 68.8,
+    "prev_year": 3.0,
+    "prev_month": 0.4
+  },
+  {
+    "label": "Februar 1994",
+    "price": 69.4,
+    "prev_year": 3.1,
+    "prev_month": 0.9
+  },
+  {
+    "label": "M\u00e4rz 1994",
+    "price": 69.5,
+    "prev_year": 3.0,
+    "prev_month": 0.1
+  },
+  {
+    "label": "April 1994",
+    "price": 69.6,
+    "prev_year": 2.8,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Mai 1994",
+    "price": 69.7,
+    "prev_year": 2.8,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Juni 1994",
+    "price": 69.8,
+    "prev_year": 2.6,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Juli 1994",
+    "price": 69.9,
+    "prev_year": 2.3,
+    "prev_month": 0.1
+  },
+  {
+    "label": "August 1994",
+    "price": 70.1,
+    "prev_year": 2.6,
+    "prev_month": 0.3
+  },
+  {
+    "label": "September 1994",
+    "price": 69.9,
+    "prev_year": 2.5,
+    "prev_month": -0.3
+  },
+  {
+    "label": "Oktober 1994",
+    "price": 69.8,
+    "prev_year": 2.3,
+    "prev_month": -0.1
+  },
+  {
+    "label": "November 1994",
+    "price": 69.9,
+    "prev_year": 2.3,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Dezember 1994",
+    "price": 70.1,
+    "prev_year": 2.3,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Januar 1995",
+    "price": 70.4,
+    "prev_year": 2.3,
+    "prev_month": 0.4
+  },
+  {
+    "label": "Februar 1995",
+    "price": 70.8,
+    "prev_year": 2.0,
+    "prev_month": 0.6
+  },
+  {
+    "label": "M\u00e4rz 1995",
+    "price": 70.8,
+    "prev_year": 1.9,
+    "prev_month": null
+  },
+  {
+    "label": "April 1995",
+    "price": 70.9,
+    "prev_year": 1.9,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Mai 1995",
+    "price": 70.9,
+    "prev_year": 1.7,
+    "prev_month": null
+  },
+  {
+    "label": "Juni 1995",
+    "price": 71.0,
+    "prev_year": 1.7,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Juli 1995",
+    "price": 71.2,
+    "prev_year": 1.9,
+    "prev_month": 0.3
+  },
+  {
+    "label": "August 1995",
+    "price": 71.2,
+    "prev_year": 1.6,
+    "prev_month": null
+  },
+  {
+    "label": "September 1995",
+    "price": 71.2,
+    "prev_year": 1.9,
+    "prev_month": null
+  },
+  {
+    "label": "Oktober 1995",
+    "price": 71.0,
+    "prev_year": 1.7,
+    "prev_month": -0.3
+  },
+  {
+    "label": "November 1995",
+    "price": 71.0,
+    "prev_year": 1.6,
+    "prev_month": null
+  },
+  {
+    "label": "Dezember 1995",
+    "price": 71.2,
+    "prev_year": 1.6,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Januar 1996",
+    "price": 71.4,
+    "prev_year": 1.4,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Februar 1996",
+    "price": 71.8,
+    "prev_year": 1.4,
+    "prev_month": 0.6
+  },
+  {
+    "label": "M\u00e4rz 1996",
+    "price": 71.8,
+    "prev_year": 1.4,
+    "prev_month": null
+  },
+  {
+    "label": "April 1996",
+    "price": 71.8,
+    "prev_year": 1.3,
+    "prev_month": null
+  },
+  {
+    "label": "Mai 1996",
+    "price": 71.9,
+    "prev_year": 1.4,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Juni 1996",
+    "price": 72.0,
+    "prev_year": 1.4,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Juli 1996",
+    "price": 72.1,
+    "prev_year": 1.3,
+    "prev_month": 0.1
+  },
+  {
+    "label": "August 1996",
+    "price": 72.1,
+    "prev_year": 1.3,
+    "prev_month": null
+  },
+  {
+    "label": "September 1996",
+    "price": 72.1,
+    "prev_year": 1.3,
+    "prev_month": null
+  },
+  {
+    "label": "Oktober 1996",
+    "price": 72.1,
+    "prev_year": 1.5,
+    "prev_month": null
+  },
+  {
+    "label": "November 1996",
+    "price": 72.0,
+    "prev_year": 1.4,
+    "prev_month": -0.1
+  },
+  {
+    "label": "Dezember 1996",
+    "price": 72.3,
+    "prev_year": 1.5,
+    "prev_month": 0.4
+  },
+  {
+    "label": "Januar 1997",
+    "price": 72.9,
+    "prev_year": 2.1,
+    "prev_month": 0.8
+  },
+  {
+    "label": "Februar 1997",
+    "price": 73.0,
+    "prev_year": 1.7,
+    "prev_month": 0.1
+  },
+  {
+    "label": "M\u00e4rz 1997",
+    "price": 73.0,
+    "prev_year": 1.7,
+    "prev_month": null
+  },
+  {
+    "label": "April 1997",
+    "price": 72.9,
+    "prev_year": 1.5,
+    "prev_month": -0.1
+  },
+  {
+    "label": "Mai 1997",
+    "price": 73.1,
+    "prev_year": 1.7,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Juni 1997",
+    "price": 73.1,
+    "prev_year": 1.5,
+    "prev_month": null
+  },
+  {
+    "label": "Juli 1997",
+    "price": 73.8,
+    "prev_year": 2.4,
+    "prev_month": 1.0
+  },
+  {
+    "label": "August 1997",
+    "price": 73.8,
+    "prev_year": 2.4,
+    "prev_month": null
+  },
+  {
+    "label": "September 1997",
+    "price": 73.7,
+    "prev_year": 2.2,
+    "prev_month": -0.1
+  },
+  {
+    "label": "Oktober 1997",
+    "price": 73.6,
+    "prev_year": 2.1,
+    "prev_month": -0.1
+  },
+  {
+    "label": "November 1997",
+    "price": 73.6,
+    "prev_year": 2.2,
+    "prev_month": null
+  },
+  {
+    "label": "Dezember 1997",
+    "price": 73.8,
+    "prev_year": 2.1,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Januar 1998",
+    "price": 73.8,
+    "prev_year": 1.2,
+    "prev_month": null
+  },
+  {
+    "label": "Februar 1998",
+    "price": 73.9,
+    "prev_year": 1.2,
+    "prev_month": 0.1
+  },
+  {
+    "label": "M\u00e4rz 1998",
+    "price": 73.8,
+    "prev_year": 1.1,
+    "prev_month": -0.1
+  },
+  {
+    "label": "April 1998",
+    "price": 73.9,
+    "prev_year": 1.4,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Mai 1998",
+    "price": 74.0,
+    "prev_year": 1.2,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Juni 1998",
+    "price": 74.1,
+    "prev_year": 1.4,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Juli 1998",
+    "price": 74.4,
+    "prev_year": 0.8,
+    "prev_month": 0.4
+  },
+  {
+    "label": "August 1998",
+    "price": 74.2,
+    "prev_year": 0.5,
+    "prev_month": -0.3
+  },
+  {
+    "label": "September 1998",
+    "price": 74.0,
+    "prev_year": 0.4,
+    "prev_month": -0.3
+  },
+  {
+    "label": "Oktober 1998",
+    "price": 73.9,
+    "prev_year": 0.4,
+    "prev_month": -0.1
+  },
+  {
+    "label": "November 1998",
+    "price": 73.9,
+    "prev_year": 0.4,
+    "prev_month": null
+  },
+  {
+    "label": "Dezember 1998",
+    "price": 74.0,
+    "prev_year": 0.3,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Januar 1999",
+    "price": 73.9,
+    "prev_year": 0.1,
+    "prev_month": -0.1
+  },
+  {
+    "label": "Februar 1999",
+    "price": 74.0,
+    "prev_year": 0.1,
+    "prev_month": 0.1
+  },
+  {
+    "label": "M\u00e4rz 1999",
+    "price": 74.0,
+    "prev_year": 0.3,
+    "prev_month": null
+  },
+  {
+    "label": "April 1999",
+    "price": 74.4,
+    "prev_year": 0.7,
+    "prev_month": 0.5
+  },
+  {
+    "label": "Mai 1999",
+    "price": 74.4,
+    "prev_year": 0.5,
+    "prev_month": null
+  },
+  {
+    "label": "Juni 1999",
+    "price": 74.5,
+    "prev_year": 0.5,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Juli 1999",
+    "price": 74.8,
+    "prev_year": 0.5,
+    "prev_month": 0.4
+  },
+  {
+    "label": "August 1999",
+    "price": 74.8,
+    "prev_year": 0.8,
+    "prev_month": null
+  },
+  {
+    "label": "September 1999",
+    "price": 74.6,
+    "prev_year": 0.8,
+    "prev_month": -0.3
+  },
+  {
+    "label": "Oktober 1999",
+    "price": 74.5,
+    "prev_year": 0.8,
+    "prev_month": -0.1
+  },
+  {
+    "label": "November 1999",
+    "price": 74.7,
+    "prev_year": 1.1,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Dezember 1999",
+    "price": 74.9,
+    "prev_year": 1.2,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Januar 2000",
+    "price": 75.1,
+    "prev_year": 1.6,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Februar 2000",
+    "price": 75.1,
+    "prev_year": 1.5,
+    "prev_month": null
+  },
+  {
+    "label": "M\u00e4rz 2000",
+    "price": 75.1,
+    "prev_year": 1.5,
+    "prev_month": null
+  },
+  {
+    "label": "April 2000",
+    "price": 75.1,
+    "prev_year": 0.9,
+    "prev_month": null
+  },
+  {
+    "label": "Mai 2000",
+    "price": 75.1,
+    "prev_year": 0.9,
+    "prev_month": null
+  },
+  {
+    "label": "Juni 2000",
+    "price": 75.4,
+    "prev_year": 1.2,
+    "prev_month": 0.4
+  },
+  {
+    "label": "Juli 2000",
+    "price": 75.8,
+    "prev_year": 1.3,
+    "prev_month": 0.5
+  },
+  {
+    "label": "August 2000",
+    "price": 75.6,
+    "prev_year": 1.1,
+    "prev_month": -0.3
+  },
+  {
+    "label": "September 2000",
+    "price": 75.8,
+    "prev_year": 1.6,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Oktober 2000",
+    "price": 75.7,
+    "prev_year": 1.6,
+    "prev_month": -0.1
+  },
+  {
+    "label": "November 2000",
+    "price": 75.8,
+    "prev_year": 1.5,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Dezember 2000",
+    "price": 76.4,
+    "prev_year": 2.0,
+    "prev_month": 0.8
+  },
+  {
+    "label": "Januar 2001",
+    "price": 76.2,
+    "prev_year": 1.5,
+    "prev_month": -0.3
+  },
+  {
+    "label": "Februar 2001",
+    "price": 76.6,
+    "prev_year": 2.0,
+    "prev_month": 0.5
+  },
+  {
+    "label": "M\u00e4rz 2001",
+    "price": 76.6,
+    "prev_year": 2.0,
+    "prev_month": null
+  },
+  {
+    "label": "April 2001",
+    "price": 76.9,
+    "prev_year": 2.4,
+    "prev_month": 0.4
+  },
+  {
+    "label": "Mai 2001",
+    "price": 77.2,
+    "prev_year": 2.8,
+    "prev_month": 0.4
+  },
+  {
+    "label": "Juni 2001",
+    "price": 77.3,
+    "prev_year": 2.5,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Juli 2001",
+    "price": 77.4,
+    "prev_year": 2.1,
+    "prev_month": 0.1
+  },
+  {
+    "label": "August 2001",
+    "price": 77.2,
+    "prev_year": 2.1,
+    "prev_month": -0.3
+  },
+  {
+    "label": "September 2001",
+    "price": 77.2,
+    "prev_year": 1.8,
+    "prev_month": null
+  },
+  {
+    "label": "Oktober 2001",
+    "price": 77.1,
+    "prev_year": 1.8,
+    "prev_month": -0.1
+  },
+  {
+    "label": "November 2001",
+    "price": 76.9,
+    "prev_year": 1.5,
+    "prev_month": -0.3
+  },
+  {
+    "label": "Dezember 2001",
+    "price": 77.7,
+    "prev_year": 1.7,
+    "prev_month": 1.0
+  },
+  {
+    "label": "Januar 2002",
+    "price": 77.7,
+    "prev_year": 2.0,
+    "prev_month": null
+  },
+  {
+    "label": "Februar 2002",
+    "price": 78.0,
+    "prev_year": 1.8,
+    "prev_month": 0.4
+  },
+  {
+    "label": "M\u00e4rz 2002",
+    "price": 78.2,
+    "prev_year": 2.1,
+    "prev_month": 0.3
+  },
+  {
+    "label": "April 2002",
+    "price": 78.1,
+    "prev_year": 1.6,
+    "prev_month": -0.1
+  },
+  {
+    "label": "Mai 2002",
+    "price": 78.2,
+    "prev_year": 1.3,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Juni 2002",
+    "price": 78.2,
+    "prev_year": 1.2,
+    "prev_month": null
+  },
+  {
+    "label": "Juli 2002",
+    "price": 78.3,
+    "prev_year": 1.2,
+    "prev_month": 0.1
+  },
+  {
+    "label": "August 2002",
+    "price": 78.2,
+    "prev_year": 1.3,
+    "prev_month": -0.1
+  },
+  {
+    "label": "September 2002",
+    "price": 78.2,
+    "prev_year": 1.3,
+    "prev_month": null
+  },
+  {
+    "label": "Oktober 2002",
+    "price": 78.1,
+    "prev_year": 1.3,
+    "prev_month": -0.1
+  },
+  {
+    "label": "November 2002",
+    "price": 77.8,
+    "prev_year": 1.2,
+    "prev_month": -0.4
+  },
+  {
+    "label": "Dezember 2002",
+    "price": 78.5,
+    "prev_year": 1.0,
+    "prev_month": 0.9
+  },
+  {
+    "label": "Januar 2003",
+    "price": 78.5,
+    "prev_year": 1.0,
+    "prev_month": null
+  },
+  {
+    "label": "Februar 2003",
+    "price": 79.0,
+    "prev_year": 1.3,
+    "prev_month": 0.6
+  },
+  {
+    "label": "M\u00e4rz 2003",
+    "price": 79.0,
+    "prev_year": 1.0,
+    "prev_month": null
+  },
+  {
+    "label": "April 2003",
+    "price": 78.8,
+    "prev_year": 0.9,
+    "prev_month": -0.3
+  },
+  {
+    "label": "Mai 2003",
+    "price": 78.6,
+    "prev_year": 0.5,
+    "prev_month": -0.3
+  },
+  {
+    "label": "Juni 2003",
+    "price": 78.9,
+    "prev_year": 0.9,
+    "prev_month": 0.4
+  },
+  {
+    "label": "Juli 2003",
+    "price": 79.0,
+    "prev_year": 0.9,
+    "prev_month": 0.1
+  },
+  {
+    "label": "August 2003",
+    "price": 79.0,
+    "prev_year": 1.0,
+    "prev_month": null
+  },
+  {
+    "label": "September 2003",
+    "price": 79.0,
+    "prev_year": 1.0,
+    "prev_month": null
+  },
+  {
+    "label": "Oktober 2003",
+    "price": 79.0,
+    "prev_year": 1.2,
+    "prev_month": null
+  },
+  {
+    "label": "November 2003",
+    "price": 78.8,
+    "prev_year": 1.3,
+    "prev_month": -0.3
+  },
+  {
+    "label": "Dezember 2003",
+    "price": 79.4,
+    "prev_year": 1.1,
+    "prev_month": 0.8
+  },
+  {
+    "label": "Januar 2004",
+    "price": 79.4,
+    "prev_year": 1.1,
+    "prev_month": null
+  },
+  {
+    "label": "Februar 2004",
+    "price": 79.6,
+    "prev_year": 0.8,
+    "prev_month": 0.3
+  },
+  {
+    "label": "M\u00e4rz 2004",
+    "price": 79.9,
+    "prev_year": 1.1,
+    "prev_month": 0.4
+  },
+  {
+    "label": "April 2004",
+    "price": 80.1,
+    "prev_year": 1.6,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Mai 2004",
+    "price": 80.3,
+    "prev_year": 2.2,
+    "prev_month": 0.2
+  },
+  {
+    "label": "Juni 2004",
+    "price": 80.3,
+    "prev_year": 1.8,
+    "prev_month": null
+  },
+  {
+    "label": "Juli 2004",
+    "price": 80.4,
+    "prev_year": 1.8,
+    "prev_month": 0.1
+  },
+  {
+    "label": "August 2004",
+    "price": 80.5,
+    "prev_year": 1.9,
+    "prev_month": 0.1
+  },
+  {
+    "label": "September 2004",
+    "price": 80.3,
+    "prev_year": 1.6,
+    "prev_month": -0.2
+  },
+  {
+    "label": "Oktober 2004",
+    "price": 80.4,
+    "prev_year": 1.8,
+    "prev_month": 0.1
+  },
+  {
+    "label": "November 2004",
+    "price": 80.3,
+    "prev_year": 1.9,
+    "prev_month": -0.1
+  },
+  {
+    "label": "Dezember 2004",
+    "price": 81.2,
+    "prev_year": 2.3,
+    "prev_month": 1.1
+  },
+  {
+    "label": "Januar 2005",
+    "price": 80.6,
+    "prev_year": 1.5,
+    "prev_month": -0.7
+  },
+  {
+    "label": "Februar 2005",
+    "price": 80.9,
+    "prev_year": 1.6,
+    "prev_month": 0.4
+  },
+  {
+    "label": "M\u00e4rz 2005",
+    "price": 81.3,
+    "prev_year": 1.8,
+    "prev_month": 0.5
+  },
+  {
+    "label": "April 2005",
+    "price": 81.0,
+    "prev_year": 1.1,
+    "prev_month": -0.4
+  },
+  {
+    "label": "Mai 2005",
+    "price": 81.2,
+    "prev_year": 1.1,
+    "prev_month": 0.2
+  },
+  {
+    "label": "Juni 2005",
+    "price": 81.3,
+    "prev_year": 1.2,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Juli 2005",
+    "price": 81.7,
+    "prev_year": 1.6,
+    "prev_month": 0.5
+  },
+  {
+    "label": "August 2005",
+    "price": 81.8,
+    "prev_year": 1.6,
+    "prev_month": 0.1
+  },
+  {
+    "label": "September 2005",
+    "price": 81.9,
+    "prev_year": 2.0,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Oktober 2005",
+    "price": 81.9,
+    "prev_year": 1.9,
+    "prev_month": null
+  },
+  {
+    "label": "November 2005",
+    "price": 81.7,
+    "prev_year": 1.7,
+    "prev_month": -0.2
+  },
+  {
+    "label": "Dezember 2005",
+    "price": 82.3,
+    "prev_year": 1.4,
+    "prev_month": 0.7
+  },
+  {
+    "label": "Januar 2006",
+    "price": 82.0,
+    "prev_year": 1.7,
+    "prev_month": -0.4
+  },
+  {
+    "label": "Februar 2006",
+    "price": 82.4,
+    "prev_year": 1.9,
+    "prev_month": 0.5
+  },
+  {
+    "label": "M\u00e4rz 2006",
+    "price": 82.4,
+    "prev_year": 1.4,
+    "prev_month": null
+  },
+  {
+    "label": "April 2006",
+    "price": 82.7,
+    "prev_year": 2.1,
+    "prev_month": 0.4
+  },
+  {
+    "label": "Mai 2006",
+    "price": 82.7,
+    "prev_year": 1.8,
+    "prev_month": null
+  },
+  {
+    "label": "Juni 2006",
+    "price": 82.9,
+    "prev_year": 2.0,
+    "prev_month": 0.2
+  },
+  {
+    "label": "Juli 2006",
+    "price": 83.2,
+    "prev_year": 1.8,
+    "prev_month": 0.4
+  },
+  {
+    "label": "August 2006",
+    "price": 83.0,
+    "prev_year": 1.5,
+    "prev_month": -0.2
+  },
+  {
+    "label": "September 2006",
+    "price": 82.7,
+    "prev_year": 1.0,
+    "prev_month": -0.4
+  },
+  {
+    "label": "Oktober 2006",
+    "price": 82.8,
+    "prev_year": 1.1,
+    "prev_month": 0.1
+  },
+  {
+    "label": "November 2006",
+    "price": 82.8,
+    "prev_year": 1.3,
+    "prev_month": null
+  },
+  {
+    "label": "Dezember 2006",
+    "price": 83.5,
+    "prev_year": 1.5,
+    "prev_month": 0.8
+  },
+  {
+    "label": "Januar 2007",
+    "price": 83.5,
+    "prev_year": 1.8,
+    "prev_month": null
+  },
+  {
+    "label": "Februar 2007",
+    "price": 83.8,
+    "prev_year": 1.7,
+    "prev_month": 0.4
+  },
+  {
+    "label": "M\u00e4rz 2007",
+    "price": 84.0,
+    "prev_year": 1.9,
+    "prev_month": 0.2
+  },
+  {
+    "label": "April 2007",
+    "price": 84.4,
+    "prev_year": 2.1,
+    "prev_month": 0.5
+  },
+  {
+    "label": "Mai 2007",
+    "price": 84.4,
+    "prev_year": 2.1,
+    "prev_month": null
+  },
+  {
+    "label": "Juni 2007",
+    "price": 84.5,
+    "prev_year": 1.9,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Juli 2007",
+    "price": 84.9,
+    "prev_year": 2.0,
+    "prev_month": 0.5
+  },
+  {
+    "label": "August 2007",
+    "price": 84.8,
+    "prev_year": 2.2,
+    "prev_month": -0.1
+  },
+  {
+    "label": "September 2007",
+    "price": 84.9,
+    "prev_year": 2.7,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Oktober 2007",
+    "price": 85.1,
+    "prev_year": 2.8,
+    "prev_month": 0.2
+  },
+  {
+    "label": "November 2007",
+    "price": 85.6,
+    "prev_year": 3.4,
+    "prev_month": 0.6
+  },
+  {
+    "label": "Dezember 2007",
+    "price": 86.1,
+    "prev_year": 3.1,
+    "prev_month": 0.6
+  },
+  {
+    "label": "Januar 2008",
+    "price": 85.8,
+    "prev_year": 2.8,
+    "prev_month": -0.3
+  },
+  {
+    "label": "Februar 2008",
+    "price": 86.2,
+    "prev_year": 2.9,
+    "prev_month": 0.5
+  },
+  {
+    "label": "M\u00e4rz 2008",
+    "price": 86.6,
+    "prev_year": 3.1,
+    "prev_month": 0.5
+  },
+  {
+    "label": "April 2008",
+    "price": 86.4,
+    "prev_year": 2.4,
+    "prev_month": -0.2
+  },
+  {
+    "label": "Mai 2008",
+    "price": 86.9,
+    "prev_year": 3.0,
+    "prev_month": 0.6
+  },
+  {
+    "label": "Juni 2008",
+    "price": 87.2,
+    "prev_year": 3.2,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Juli 2008",
+    "price": 87.7,
+    "prev_year": 3.3,
+    "prev_month": 0.6
+  },
+  {
+    "label": "August 2008",
+    "price": 87.4,
+    "prev_year": 3.1,
+    "prev_month": -0.3
+  },
+  {
+    "label": "September 2008",
+    "price": 87.4,
+    "prev_year": 2.9,
+    "prev_month": null
+  },
+  {
+    "label": "Oktober 2008",
+    "price": 87.2,
+    "prev_year": 2.5,
+    "prev_month": -0.2
+  },
+  {
+    "label": "November 2008",
+    "price": 86.8,
+    "prev_year": 1.4,
+    "prev_month": -0.5
+  },
+  {
+    "label": "Dezember 2008",
+    "price": 87.0,
+    "prev_year": 1.0,
+    "prev_month": 0.2
+  },
+  {
+    "label": "Januar 2009",
+    "price": 86.6,
+    "prev_year": 0.9,
+    "prev_month": -0.5
+  },
+  {
+    "label": "Februar 2009",
+    "price": 87.1,
+    "prev_year": 1.0,
+    "prev_month": 0.6
+  },
+  {
+    "label": "M\u00e4rz 2009",
+    "price": 87.0,
+    "prev_year": 0.5,
+    "prev_month": -0.1
+  },
+  {
+    "label": "April 2009",
+    "price": 87.0,
+    "prev_year": 0.7,
+    "prev_month": null
+  },
+  {
+    "label": "Mai 2009",
+    "price": 87.0,
+    "prev_year": 0.1,
+    "prev_month": null
+  },
+  {
+    "label": "Juni 2009",
+    "price": 87.3,
+    "prev_year": 0.1,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Juli 2009",
+    "price": 87.3,
+    "prev_year": -0.5,
+    "prev_month": null
+  },
+  {
+    "label": "August 2009",
+    "price": 87.5,
+    "prev_year": 0.1,
+    "prev_month": 0.2
+  },
+  {
+    "label": "September 2009",
+    "price": 87.1,
+    "prev_year": -0.3,
+    "prev_month": -0.5
+  },
+  {
+    "label": "Oktober 2009",
+    "price": 87.2,
+    "prev_year": null,
+    "prev_month": 0.1
+  },
+  {
+    "label": "November 2009",
+    "price": 87.1,
+    "prev_year": 0.3,
+    "prev_month": -0.1
+  },
+  {
+    "label": "Dezember 2009",
+    "price": 87.8,
+    "prev_year": 0.9,
+    "prev_month": 0.8
+  },
+  {
+    "label": "Januar 2010",
+    "price": 87.3,
+    "prev_year": 0.8,
+    "prev_month": -0.6
+  },
+  {
+    "label": "Februar 2010",
+    "price": 87.6,
+    "prev_year": 0.6,
+    "prev_month": 0.3
+  },
+  {
+    "label": "M\u00e4rz 2010",
+    "price": 88.1,
+    "prev_year": 1.3,
+    "prev_month": 0.6
+  },
+  {
+    "label": "April 2010",
+    "price": 88.1,
+    "prev_year": 1.3,
+    "prev_month": null
+  },
+  {
+    "label": "Mai 2010",
+    "price": 88.1,
+    "prev_year": 1.3,
+    "prev_month": null
+  },
+  {
+    "label": "Juni 2010",
+    "price": 88.1,
+    "prev_year": 0.9,
+    "prev_month": null
+  },
+  {
+    "label": "Juli 2010",
+    "price": 88.2,
+    "prev_year": 1.0,
+    "prev_month": 0.1
+  },
+  {
+    "label": "August 2010",
+    "price": 88.3,
+    "prev_year": 0.9,
+    "prev_month": 0.1
+  },
+  {
+    "label": "September 2010",
+    "price": 88.2,
+    "prev_year": 1.3,
+    "prev_month": -0.1
+  },
+  {
+    "label": "Oktober 2010",
+    "price": 88.3,
+    "prev_year": 1.3,
+    "prev_month": 0.1
+  },
+  {
+    "label": "November 2010",
+    "price": 88.4,
+    "prev_year": 1.5,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Dezember 2010",
+    "price": 89.0,
+    "prev_year": 1.4,
+    "prev_month": 0.7
+  },
+  {
+    "label": "Januar 2011",
+    "price": 88.7,
+    "prev_year": 1.6,
+    "prev_month": -0.3
+  },
+  {
+    "label": "Februar 2011",
+    "price": 89.3,
+    "prev_year": 1.9,
+    "prev_month": 0.7
+  },
+  {
+    "label": "M\u00e4rz 2011",
+    "price": 89.8,
+    "prev_year": 1.9,
+    "prev_month": 0.6
+  },
+  {
+    "label": "April 2011",
+    "price": 89.8,
+    "prev_year": 1.9,
+    "prev_month": null
+  },
+  {
+    "label": "Mai 2011",
+    "price": 89.8,
+    "prev_year": 1.9,
+    "prev_month": null
+  },
+  {
+    "label": "Juni 2011",
+    "price": 89.9,
+    "prev_year": 2.0,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Juli 2011",
+    "price": 90.1,
+    "prev_year": 2.2,
+    "prev_month": 0.2
+  },
+  {
+    "label": "August 2011",
+    "price": 90.2,
+    "prev_year": 2.2,
+    "prev_month": 0.1
+  },
+  {
+    "label": "September 2011",
+    "price": 90.3,
+    "prev_year": 2.4,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Oktober 2011",
+    "price": 90.4,
+    "prev_year": 2.4,
+    "prev_month": 0.1
+  },
+  {
+    "label": "November 2011",
+    "price": 90.5,
+    "prev_year": 2.4,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Dezember 2011",
+    "price": 90.7,
+    "prev_year": 1.9,
+    "prev_month": 0.2
+  },
+  {
+    "label": "Januar 2012",
+    "price": 90.6,
+    "prev_year": 2.1,
+    "prev_month": -0.1
+  },
+  {
+    "label": "Februar 2012",
+    "price": 91.2,
+    "prev_year": 2.1,
+    "prev_month": 0.7
+  },
+  {
+    "label": "M\u00e4rz 2012",
+    "price": 91.7,
+    "prev_year": 2.1,
+    "prev_month": 0.5
+  },
+  {
+    "label": "April 2012",
+    "price": 91.6,
+    "prev_year": 2.0,
+    "prev_month": -0.1
+  },
+  {
+    "label": "Mai 2012",
+    "price": 91.5,
+    "prev_year": 1.9,
+    "prev_month": -0.1
+  },
+  {
+    "label": "Juni 2012",
+    "price": 91.4,
+    "prev_year": 1.7,
+    "prev_month": -0.1
+  },
+  {
+    "label": "Juli 2012",
+    "price": 91.7,
+    "prev_year": 1.8,
+    "prev_month": 0.3
+  },
+  {
+    "label": "August 2012",
+    "price": 92.1,
+    "prev_year": 2.1,
+    "prev_month": 0.4
+  },
+  {
+    "label": "September 2012",
+    "price": 92.2,
+    "prev_year": 2.1,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Oktober 2012",
+    "price": 92.2,
+    "prev_year": 2.0,
+    "prev_month": null
+  },
+  {
+    "label": "November 2012",
+    "price": 92.2,
+    "prev_year": 1.9,
+    "prev_month": null
+  },
+  {
+    "label": "Dezember 2012",
+    "price": 92.5,
+    "prev_year": 2.0,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Januar 2013",
+    "price": 92.1,
+    "prev_year": 1.7,
+    "prev_month": -0.4
+  },
+  {
+    "label": "Februar 2013",
+    "price": 92.6,
+    "prev_year": 1.5,
+    "prev_month": 0.5
+  },
+  {
+    "label": "M\u00e4rz 2013",
+    "price": 93.0,
+    "prev_year": 1.4,
+    "prev_month": 0.4
+  },
+  {
+    "label": "April 2013",
+    "price": 92.6,
+    "prev_year": 1.1,
+    "prev_month": -0.4
+  },
+  {
+    "label": "Mai 2013",
+    "price": 93.0,
+    "prev_year": 1.6,
+    "prev_month": 0.4
+  },
+  {
+    "label": "Juni 2013",
+    "price": 93.1,
+    "prev_year": 1.9,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Juli 2013",
+    "price": 93.5,
+    "prev_year": 2.0,
+    "prev_month": 0.4
+  },
+  {
+    "label": "August 2013",
+    "price": 93.5,
+    "prev_year": 1.5,
+    "prev_month": null
+  },
+  {
+    "label": "September 2013",
+    "price": 93.5,
+    "prev_year": 1.4,
+    "prev_month": null
+  },
+  {
+    "label": "Oktober 2013",
+    "price": 93.3,
+    "prev_year": 1.2,
+    "prev_month": -0.2
+  },
+  {
+    "label": "November 2013",
+    "price": 93.5,
+    "prev_year": 1.4,
+    "prev_month": 0.2
+  },
+  {
+    "label": "Dezember 2013",
+    "price": 93.9,
+    "prev_year": 1.5,
+    "prev_month": 0.4
+  },
+  {
+    "label": "Januar 2014",
+    "price": 93.3,
+    "prev_year": 1.3,
+    "prev_month": -0.6
+  },
+  {
+    "label": "Februar 2014",
+    "price": 93.8,
+    "prev_year": 1.3,
+    "prev_month": 0.5
+  },
+  {
+    "label": "M\u00e4rz 2014",
+    "price": 94.0,
+    "prev_year": 1.1,
+    "prev_month": 0.2
+  },
+  {
+    "label": "April 2014",
+    "price": 93.9,
+    "prev_year": 1.4,
+    "prev_month": -0.1
+  },
+  {
+    "label": "Mai 2014",
+    "price": 93.8,
+    "prev_year": 0.9,
+    "prev_month": -0.1
+  },
+  {
+    "label": "Juni 2014",
+    "price": 94.0,
+    "prev_year": 1.0,
+    "prev_month": 0.2
+  },
+  {
+    "label": "Juli 2014",
+    "price": 94.3,
+    "prev_year": 0.9,
+    "prev_month": 0.3
+  },
+  {
+    "label": "August 2014",
+    "price": 94.3,
+    "prev_year": 0.9,
+    "prev_month": null
+  },
+  {
+    "label": "September 2014",
+    "price": 94.3,
+    "prev_year": 0.9,
+    "prev_month": null
+  },
+  {
+    "label": "Oktober 2014",
+    "price": 94.1,
+    "prev_year": 0.9,
+    "prev_month": -0.2
+  },
+  {
+    "label": "November 2014",
+    "price": 94.1,
+    "prev_year": 0.6,
+    "prev_month": null
+  },
+  {
+    "label": "Dezember 2014",
+    "price": 94.0,
+    "prev_year": 0.1,
+    "prev_month": -0.1
+  },
+  {
+    "label": "Januar 2015",
+    "price": 93.1,
+    "prev_year": -0.2,
+    "prev_month": -1.0
+  },
+  {
+    "label": "Februar 2015",
+    "price": 93.8,
+    "prev_year": null,
+    "prev_month": 0.8
+  },
+  {
+    "label": "M\u00e4rz 2015",
+    "price": 94.3,
+    "prev_year": 0.3,
+    "prev_month": 0.5
+  },
+  {
+    "label": "April 2015",
+    "price": 94.7,
+    "prev_year": 0.9,
+    "prev_month": 0.4
+  },
+  {
+    "label": "Mai 2015",
+    "price": 94.9,
+    "prev_year": 1.2,
+    "prev_month": 0.2
+  },
+  {
+    "label": "Juni 2015",
+    "price": 94.9,
+    "prev_year": 1.0,
+    "prev_month": null
+  },
+  {
+    "label": "Juli 2015",
+    "price": 95.1,
+    "prev_year": 0.8,
+    "prev_month": 0.2
+  },
+  {
+    "label": "August 2015",
+    "price": 95.0,
+    "prev_year": 0.7,
+    "prev_month": -0.1
+  },
+  {
+    "label": "September 2015",
+    "price": 94.9,
+    "prev_year": 0.6,
+    "prev_month": -0.1
+  },
+  {
+    "label": "Oktober 2015",
+    "price": 94.9,
+    "prev_year": 0.9,
+    "prev_month": null
+  },
+  {
+    "label": "November 2015",
+    "price": 94.3,
+    "prev_year": 0.2,
+    "prev_month": -0.6
+  },
+  {
+    "label": "Dezember 2015",
+    "price": 94.3,
+    "prev_year": 0.3,
+    "prev_month": null
+  },
+  {
+    "label": "Januar 2016",
+    "price": 93.6,
+    "prev_year": 0.5,
+    "prev_month": -0.7
+  },
+  {
+    "label": "Februar 2016",
+    "price": 93.9,
+    "prev_year": 0.1,
+    "prev_month": 0.3
+  },
+  {
+    "label": "M\u00e4rz 2016",
+    "price": 94.5,
+    "prev_year": 0.2,
+    "prev_month": 0.6
+  },
+  {
+    "label": "April 2016",
+    "price": 94.6,
+    "prev_year": -0.1,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Mai 2016",
+    "price": 95.1,
+    "prev_year": 0.2,
+    "prev_month": 0.5
+  },
+  {
+    "label": "Juni 2016",
+    "price": 95.2,
+    "prev_year": 0.3,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Juli 2016",
+    "price": 95.5,
+    "prev_year": 0.4,
+    "prev_month": 0.3
+  },
+  {
+    "label": "August 2016",
+    "price": 95.4,
+    "prev_year": 0.4,
+    "prev_month": -0.1
+  },
+  {
+    "label": "September 2016",
+    "price": 95.5,
+    "prev_year": 0.6,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Oktober 2016",
+    "price": 95.6,
+    "prev_year": 0.7,
+    "prev_month": 0.1
+  },
+  {
+    "label": "November 2016",
+    "price": 95.0,
+    "prev_year": 0.7,
+    "prev_month": -0.6
+  },
+  {
+    "label": "Dezember 2016",
+    "price": 95.6,
+    "prev_year": 1.4,
+    "prev_month": 0.6
+  },
+  {
+    "label": "Januar 2017",
+    "price": 95.1,
+    "prev_year": 1.6,
+    "prev_month": -0.5
+  },
+  {
+    "label": "Februar 2017",
+    "price": 95.6,
+    "prev_year": 1.8,
+    "prev_month": 0.5
+  },
+  {
+    "label": "M\u00e4rz 2017",
+    "price": 95.8,
+    "prev_year": 1.4,
+    "prev_month": 0.2
+  },
+  {
+    "label": "April 2017",
+    "price": 96.2,
+    "prev_year": 1.7,
+    "prev_month": 0.4
+  },
+  {
+    "label": "Mai 2017",
+    "price": 96.2,
+    "prev_year": 1.2,
+    "prev_month": null
+  },
+  {
+    "label": "Juni 2017",
+    "price": 96.5,
+    "prev_year": 1.4,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Juli 2017",
+    "price": 96.9,
+    "prev_year": 1.5,
+    "prev_month": 0.4
+  },
+  {
+    "label": "August 2017",
+    "price": 97.0,
+    "prev_year": 1.7,
+    "prev_month": 0.1
+  },
+  {
+    "label": "September 2017",
+    "price": 97.0,
+    "prev_year": 1.6,
+    "prev_month": null
+  },
+  {
+    "label": "Oktober 2017",
+    "price": 96.9,
+    "prev_year": 1.4,
+    "prev_month": -0.1
+  },
+  {
+    "label": "November 2017",
+    "price": 96.5,
+    "prev_year": 1.6,
+    "prev_month": -0.4
+  },
+  {
+    "label": "Dezember 2017",
+    "price": 96.9,
+    "prev_year": 1.4,
+    "prev_month": 0.4
+  },
+  {
+    "label": "Januar 2018",
+    "price": 96.4,
+    "prev_year": 1.4,
+    "prev_month": -0.5
+  },
+  {
+    "label": "Februar 2018",
+    "price": 96.7,
+    "prev_year": 1.2,
+    "prev_month": 0.3
+  },
+  {
+    "label": "M\u00e4rz 2018",
+    "price": 97.2,
+    "prev_year": 1.5,
+    "prev_month": 0.5
+  },
+  {
+    "label": "April 2018",
+    "price": 97.5,
+    "prev_year": 1.4,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Mai 2018",
+    "price": 98.2,
+    "prev_year": 2.1,
+    "prev_month": 0.7
+  },
+  {
+    "label": "Juni 2018",
+    "price": 98.3,
+    "prev_year": 1.9,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Juli 2018",
+    "price": 98.7,
+    "prev_year": 1.9,
+    "prev_month": 0.4
+  },
+  {
+    "label": "August 2018",
+    "price": 98.8,
+    "prev_year": 1.9,
+    "prev_month": 0.1
+  },
+  {
+    "label": "September 2018",
+    "price": 99.0,
+    "prev_year": 2.1,
+    "prev_month": 0.2
+  },
+  {
+    "label": "Oktober 2018",
+    "price": 99.1,
+    "prev_year": 2.3,
+    "prev_month": 0.1
+  },
+  {
+    "label": "November 2018",
+    "price": 98.5,
+    "prev_year": 2.1,
+    "prev_month": -0.6
+  },
+  {
+    "label": "Dezember 2018",
+    "price": 98.5,
+    "prev_year": 1.7,
+    "prev_month": null
+  },
+  {
+    "label": "Januar 2019",
+    "price": 97.7,
+    "prev_year": 1.3,
+    "prev_month": -0.8
+  },
+  {
+    "label": "Februar 2019",
+    "price": 98.1,
+    "prev_year": 1.4,
+    "prev_month": 0.4
+  },
+  {
+    "label": "M\u00e4rz 2019",
+    "price": 98.5,
+    "prev_year": 1.3,
+    "prev_month": 0.4
+  },
+  {
+    "label": "April 2019",
+    "price": 99.4,
+    "prev_year": 1.9,
+    "prev_month": 0.9
+  },
+  {
+    "label": "Mai 2019",
+    "price": 99.6,
+    "prev_year": 1.4,
+    "prev_month": 0.2
+  },
+  {
+    "label": "Juni 2019",
+    "price": 99.9,
+    "prev_year": 1.6,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Juli 2019",
+    "price": 100.3,
+    "prev_year": 1.6,
+    "prev_month": 0.4
+  },
+  {
+    "label": "August 2019",
+    "price": 100.2,
+    "prev_year": 1.4,
+    "prev_month": -0.1
+  },
+  {
+    "label": "September 2019",
+    "price": 100.2,
+    "prev_year": 1.2,
+    "prev_month": null
+  },
+  {
+    "label": "Oktober 2019",
+    "price": 100.2,
+    "prev_year": 1.1,
+    "prev_month": null
+  },
+  {
+    "label": "November 2019",
+    "price": 99.5,
+    "prev_year": 1.0,
+    "prev_month": -0.7
+  },
+  {
+    "label": "Dezember 2019",
+    "price": 100.0,
+    "prev_year": 1.5,
+    "prev_month": 0.5
+  },
+  {
+    "label": "Januar 2020",
+    "price": 99.8,
+    "prev_year": 2.1,
+    "prev_month": -0.2
+  },
+  {
+    "label": "Februar 2020",
+    "price": 100.1,
+    "prev_year": 2.0,
+    "prev_month": 0.3
+  },
+  {
+    "label": "M\u00e4rz 2020",
+    "price": 100.3,
+    "prev_year": 1.8,
+    "prev_month": 0.2
+  },
+  {
+    "label": "April 2020",
+    "price": 100.4,
+    "prev_year": 1.0,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Mai 2020",
+    "price": 100.4,
+    "prev_year": 0.8,
+    "prev_month": null
+  },
+  {
+    "label": "Juni 2020",
+    "price": 100.5,
+    "prev_year": 0.6,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Juli 2020",
+    "price": 99.7,
+    "prev_year": -0.6,
+    "prev_month": -0.8
+  },
+  {
+    "label": "August 2020",
+    "price": 99.7,
+    "prev_year": -0.5,
+    "prev_month": null
+  },
+  {
+    "label": "September 2020",
+    "price": 99.7,
+    "prev_year": -0.5,
+    "prev_month": null
+  },
+  {
+    "label": "Oktober 2020",
+    "price": 99.9,
+    "prev_year": -0.3,
+    "prev_month": 0.2
+  },
+  {
+    "label": "November 2020",
+    "price": 99.7,
+    "prev_year": 0.2,
+    "prev_month": -0.2
+  },
+  {
+    "label": "Dezember 2020",
+    "price": 99.8,
+    "prev_year": -0.2,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Januar 2021",
+    "price": 101.0,
+    "prev_year": 1.2,
+    "prev_month": 1.2
+  },
+  {
+    "label": "Februar 2021",
+    "price": 101.6,
+    "prev_year": 1.5,
+    "prev_month": 0.6
+  },
+  {
+    "label": "M\u00e4rz 2021",
+    "price": 102.1,
+    "prev_year": 1.8,
+    "prev_month": 0.5
+  },
+  {
+    "label": "April 2021",
+    "price": 102.4,
+    "prev_year": 2.0,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Mai 2021",
+    "price": 102.6,
+    "prev_year": 2.2,
+    "prev_month": 0.2
+  },
+  {
+    "label": "Juni 2021",
+    "price": 102.9,
+    "prev_year": 2.4,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Juli 2021",
+    "price": 103.4,
+    "prev_year": 3.7,
+    "prev_month": 0.5
+  },
+  {
+    "label": "August 2021",
+    "price": 103.5,
+    "prev_year": 3.8,
+    "prev_month": 0.1
+  },
+  {
+    "label": "September 2021",
+    "price": 103.8,
+    "prev_year": 4.1,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Oktober 2021",
+    "price": 104.3,
+    "prev_year": 4.4,
+    "prev_month": 0.5
+  },
+  {
+    "label": "November 2021",
+    "price": 104.5,
+    "prev_year": 4.8,
+    "prev_month": 0.2
+  },
+  {
+    "label": "Dezember 2021",
+    "price": 104.7,
+    "prev_year": 4.9,
+    "prev_month": 0.2
+  },
+  {
+    "label": "Januar 2022",
+    "price": 105.2,
+    "prev_year": 4.2,
+    "prev_month": 0.5
+  },
+  {
+    "label": "Februar 2022",
+    "price": 106.0,
+    "prev_year": 4.3,
+    "prev_month": 0.8
+  },
+  {
+    "label": "M\u00e4rz 2022",
+    "price": 108.1,
+    "prev_year": 5.9,
+    "prev_month": 2.0
+  },
+  {
+    "label": "April 2022",
+    "price": 108.8,
+    "prev_year": 6.3,
+    "prev_month": 0.6
+  },
+  {
+    "label": "Mai 2022",
+    "price": 109.8,
+    "prev_year": 7.0,
+    "prev_month": 0.9
+  },
+  {
+    "label": "Juni 2022",
+    "price": 109.8,
+    "prev_year": 6.7,
+    "prev_month": null
+  },
+  {
+    "label": "Juli 2022",
+    "price": 110.3,
+    "prev_year": 6.7,
+    "prev_month": 0.5
+  },
+  {
+    "label": "August 2022",
+    "price": 110.7,
+    "prev_year": 7.0,
+    "prev_month": 0.4
+  },
+  {
+    "label": "September 2022",
+    "price": 112.7,
+    "prev_year": 8.6,
+    "prev_month": 1.8
+  },
+  {
+    "label": "Oktober 2022",
+    "price": 113.5,
+    "prev_year": 8.8,
+    "prev_month": 0.7
+  },
+  {
+    "label": "November 2022",
+    "price": 113.7,
+    "prev_year": 8.8,
+    "prev_month": 0.2
+  },
+  {
+    "label": "Dezember 2022",
+    "price": 113.2,
+    "prev_year": 8.1,
+    "prev_month": -0.4
+  },
+  {
+    "label": "Januar 2023",
+    "price": 114.3,
+    "prev_year": 8.7,
+    "prev_month": 1.0
+  },
+  {
+    "label": "Februar 2023",
+    "price": 115.2,
+    "prev_year": 8.7,
+    "prev_month": 0.8
+  },
+  {
+    "label": "M\u00e4rz 2023",
+    "price": 116.1,
+    "prev_year": 7.4,
+    "prev_month": 0.8
+  },
+  {
+    "label": "April 2023",
+    "price": 116.6,
+    "prev_year": 7.2,
+    "prev_month": 0.4
+  },
+  {
+    "label": "Mai 2023",
+    "price": 116.5,
+    "prev_year": 6.1,
+    "prev_month": -0.1
+  },
+  {
+    "label": "Juni 2023",
+    "price": 116.8,
+    "prev_year": 6.4,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Juli 2023",
+    "price": 117.1,
+    "prev_year": 6.2,
+    "prev_month": 0.3
+  },
+  {
+    "label": "August 2023",
+    "price": 117.5,
+    "prev_year": 6.1,
+    "prev_month": 0.3
+  },
+  {
+    "label": "September 2023",
+    "price": 117.8,
+    "prev_year": 4.5,
+    "prev_month": 0.3
+  },
+  {
+    "label": "Oktober 2023",
+    "price": 117.8,
+    "prev_year": 3.8,
+    "prev_month": null
+  },
+  {
+    "label": "November 2023",
+    "price": 117.3,
+    "prev_year": 3.2,
+    "prev_month": -0.4
+  },
+  {
+    "label": "Dezember 2023",
+    "price": 117.4,
+    "prev_year": 3.7,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Januar 2024",
+    "price": 117.6,
+    "prev_year": 2.9,
+    "prev_month": 0.2
+  },
+  {
+    "label": "Februar 2024",
+    "price": 118.1,
+    "prev_year": 2.5,
+    "prev_month": 0.4
+  },
+  {
+    "label": "M\u00e4rz 2024",
+    "price": 118.6,
+    "prev_year": 2.2,
+    "prev_month": 0.4
+  },
+  {
+    "label": "April 2024",
+    "price": 119.2,
+    "prev_year": 2.2,
+    "prev_month": 0.5
+  },
+  {
+    "label": "Mai 2024",
+    "price": 119.3,
+    "prev_year": 2.4,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Juni 2024",
+    "price": 119.4,
+    "prev_year": 2.2,
+    "prev_month": 0.1
+  },
+  {
+    "label": "Juli 2024",
+    "price": 119.8,
+    "prev_year": 2.3,
+    "prev_month": 0.3
+  },
+  {
+    "label": "August 2024",
+    "price": 119.7,
+    "prev_year": 1.9,
+    "prev_month": -0.1
+  },
+  {
+    "label": "September 2024",
+    "price": 119.7,
+    "prev_year": 1.6,
+    "prev_month": null
+  },
+  {
+    "label": "Oktober 2024",
+    "price": 120.2,
+    "prev_year": 2.0,
+    "prev_month": 0.4
+  },
+  {
+    "label": "November 2024",
+    "price": 119.9,
+    "prev_year": 2.2,
+    "prev_month": -0.2
+  },
+  {
+    "label": "Dezember 2024",
+    "price": 120.5,
+    "prev_year": 2.6,
+    "prev_month": 0.5
+  },
+  {
+    "label": "Januar 2025",
+    "price": 120.3,
+    "prev_year": 2.3,
+    "prev_month": -0.2
+  },
+  {
+    "label": "Februar 2025",
+    "price": 120.8,
+    "prev_year": 2.3,
+    "prev_month": 0.4
+  },
+  {
+    "label": "M\u00e4rz 2025",
+    "price": null,
+    "prev_year": null,
+    "prev_month": null
+  },
+  {
+    "label": "April 2025",
+    "price": null,
+    "prev_year": null,
+    "prev_month": null
+  },
+  {
+    "label": "Mai 2025",
+    "price": null,
+    "prev_year": null,
+    "prev_month": null
+  },
+  {
+    "label": "Juni 2025",
+    "price": null,
+    "prev_year": null,
+    "prev_month": null
+  },
+  {
+    "label": "Juli 2025",
+    "price": null,
+    "prev_year": null,
+    "prev_month": null
+  },
+  {
+    "label": "August 2025",
+    "price": null,
+    "prev_year": null,
+    "prev_month": null
+  },
+  {
+    "label": "September 2025",
+    "price": null,
+    "prev_year": null,
+    "prev_month": null
+  },
+  {
+    "label": "Oktober 2025",
+    "price": null,
+    "prev_year": null,
+    "prev_month": null
+  },
+  {
+    "label": "November 2025",
+    "price": null,
+    "prev_year": null,
+    "prev_month": null
+  },
+  {
+    "label": "Dezember 2025",
+    "price": null,
+    "prev_year": null,
+    "prev_month": null
+  }
+]

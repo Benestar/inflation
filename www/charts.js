@@ -21,15 +21,15 @@
     };
 
     const wages = {
-        label: 'Nominallöhne Gesamtwirtchaft',
+        label: 'Löhne (Gesamtwirtchaft)',
         data: data_wages.filter(row => row[3] == 'Gesamtwirtschaft').map(row => ({x: row[0], y: row[1]})),
         yAxisID: 'y2'
     };
 
     const real_wages = {
-        label: 'Reallöhne Gesamtwirtschaft',
-        data: data_wages.filter(row => row[3] == 'Gesamtwirtschaft').map(row => ({x: row[0], y: row[1] / data_inflation.find(el => el[0] == row[0])[1]})),
-        yAxisID: 'y1'
+        label: 'Reallöhne (Gesamtwirtschaft)',
+        data: data_wages.filter(row => row[3] == 'Gesamtwirtschaft').map(row => ({x: row[0], y: 100 * row[1] / data_inflation.find(el => el[0] == row[0])[1]})),
+        yAxisID: 'y2'
     };
 
     const options = {
@@ -41,6 +41,11 @@
         interaction: {
             mode: 'nearest',
             intersect: false
+        },
+        plugins: {
+            colors: {
+                forceOverride: true
+            }
         },
         scales: {
             x: {
@@ -67,6 +72,12 @@
                 }
             },
             y3: {
+                display: false
+            },
+            y4: {
+                display: false
+            },
+            y5: {
                 display: false
             }
         }
@@ -98,6 +109,6 @@
         );
     }
 
-    chart('chart01', [inflation, prices]);
+    chart('chart01', [prices, inflation]);
     chart('chart02', [prices, wages, real_wages]);
 })();

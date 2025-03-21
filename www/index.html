@@ -9,16 +9,22 @@
         <div class="p-8">
             <h1 class="mb-8 mt-8 text-6xl text-center font-extrabold">Inflationsrechner</h1>
 
-            <div class="mx-auto p-4 max-w-5xl rounded-xl bg-white p-6 shadow-lg outline outline-black/5">
-                <canvas id="chart"></canvas>
-                <p class="mt-8 text-sm text-gray-500 text-center">
-                    Quelle der Daten: <a class="underline" href="https://www.destatis.de/" target="_blank">Statistisches Bundesamt</a>
-                </p>
+            <div class="mx-auto mt-12 p-4 max-w-5xl rounded-xl bg-white p-6 shadow-lg outline outline-black/5">
+                <canvas id="chart01"></canvas>
             </div>
 
+            <div class="mx-auto mt-12 p-4 max-w-5xl rounded-xl bg-white p-6 shadow-lg outline outline-black/5">
+                <canvas id="chart02"></canvas>
+            </div>
+
+            <p class="mt-8 text-sm text-gray-500 text-center">
+                Quelle der Daten: <a class="underline" href="https://www.destatis.de/" target="_blank">Statistisches Bundesamt</a> &copy;
+            </p>
         </div>
 
-        <script type="module" src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js@^4"></script>
+        <script src="https://cdn.jsdelivr.net/npm/moment@^2"></script>
+        <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-moment@^1"></script>
         <script type="module" src="charts.js"></script>
     </body>
 </html>

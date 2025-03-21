@@ -1,2522 +1,2522 @@
 [
-  {
-    "label": "Januar 1991",
-    "price": 60.5,
-    "prev_year": null,
-    "prev_month": null
-  },
-  {
-    "label": "Februar 1991",
-    "price": 60.8,
-    "prev_year": null,
-    "prev_month": 0.5
-  },
-  {
-    "label": "M\u00e4rz 1991",
-    "price": 60.8,
-    "prev_year": null,
-    "prev_month": null
-  },
-  {
-    "label": "April 1991",
-    "price": 61.0,
-    "prev_year": null,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Mai 1991",
-    "price": 61.1,
-    "prev_year": null,
-    "prev_month": 0.2
-  },
-  {
-    "label": "Juni 1991",
-    "price": 61.5,
-    "prev_year": null,
-    "prev_month": 0.7
-  },
-  {
-    "label": "Juli 1991",
-    "price": 62.2,
-    "prev_year": null,
-    "prev_month": 1.1
-  },
-  {
-    "label": "August 1991",
-    "price": 62.2,
-    "prev_year": null,
-    "prev_month": null
-  },
-  {
-    "label": "September 1991",
-    "price": 62.2,
-    "prev_year": null,
-    "prev_month": null
-  },
-  {
-    "label": "Oktober 1991",
-    "price": 63.2,
-    "prev_year": null,
-    "prev_month": 1.6
-  },
-  {
-    "label": "November 1991",
-    "price": 63.4,
-    "prev_year": null,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Dezember 1991",
-    "price": 63.5,
-    "prev_year": null,
-    "prev_month": 0.2
-  },
-  {
-    "label": "Januar 1992",
-    "price": 63.9,
-    "prev_year": 5.6,
-    "prev_month": 0.6
-  },
-  {
-    "label": "Februar 1992",
-    "price": 64.3,
-    "prev_year": 5.8,
-    "prev_month": 0.6
-  },
-  {
-    "label": "M\u00e4rz 1992",
-    "price": 64.5,
-    "prev_year": 6.1,
-    "prev_month": 0.3
-  },
-  {
-    "label": "April 1992",
-    "price": 64.7,
-    "prev_year": 6.1,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Mai 1992",
-    "price": 64.9,
-    "prev_year": 6.2,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Juni 1992",
-    "price": 65.1,
-    "prev_year": 5.9,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Juli 1992",
-    "price": 65.3,
-    "prev_year": 5.0,
-    "prev_month": 0.3
-  },
-  {
-    "label": "August 1992",
-    "price": 65.3,
-    "prev_year": 5.0,
-    "prev_month": null
-  },
-  {
-    "label": "September 1992",
-    "price": 65.3,
-    "prev_year": 5.0,
-    "prev_month": null
-  },
-  {
-    "label": "Oktober 1992",
-    "price": 65.3,
-    "prev_year": 3.3,
-    "prev_month": null
-  },
-  {
-    "label": "November 1992",
-    "price": 65.6,
-    "prev_year": 3.5,
-    "prev_month": 0.5
-  },
-  {
-    "label": "Dezember 1992",
-    "price": 65.7,
-    "prev_year": 3.5,
-    "prev_month": 0.2
-  },
-  {
-    "label": "Januar 1993",
-    "price": 66.8,
-    "prev_year": 4.5,
-    "prev_month": 1.7
-  },
-  {
-    "label": "Februar 1993",
-    "price": 67.3,
-    "prev_year": 4.7,
-    "prev_month": 0.7
-  },
-  {
-    "label": "M\u00e4rz 1993",
-    "price": 67.5,
-    "prev_year": 4.7,
-    "prev_month": 0.3
-  },
-  {
-    "label": "April 1993",
-    "price": 67.7,
-    "prev_year": 4.6,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Mai 1993",
-    "price": 67.8,
-    "prev_year": 4.5,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Juni 1993",
-    "price": 68.0,
-    "prev_year": 4.5,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Juli 1993",
-    "price": 68.3,
-    "prev_year": 4.6,
-    "prev_month": 0.4
-  },
-  {
-    "label": "August 1993",
-    "price": 68.3,
-    "prev_year": 4.6,
-    "prev_month": null
-  },
-  {
-    "label": "September 1993",
-    "price": 68.2,
-    "prev_year": 4.4,
-    "prev_month": -0.1
-  },
-  {
-    "label": "Oktober 1993",
-    "price": 68.2,
-    "prev_year": 4.4,
-    "prev_month": null
-  },
-  {
-    "label": "November 1993",
-    "price": 68.3,
-    "prev_year": 4.1,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Dezember 1993",
-    "price": 68.5,
-    "prev_year": 4.3,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Januar 1994",
-    "price": 68.8,
-    "prev_year": 3.0,
-    "prev_month": 0.4
-  },
-  {
-    "label": "Februar 1994",
-    "price": 69.4,
-    "prev_year": 3.1,
-    "prev_month": 0.9
-  },
-  {
-    "label": "M\u00e4rz 1994",
-    "price": 69.5,
-    "prev_year": 3.0,
-    "prev_month": 0.1
-  },
-  {
-    "label": "April 1994",
-    "price": 69.6,
-    "prev_year": 2.8,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Mai 1994",
-    "price": 69.7,
-    "prev_year": 2.8,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Juni 1994",
-    "price": 69.8,
-    "prev_year": 2.6,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Juli 1994",
-    "price": 69.9,
-    "prev_year": 2.3,
-    "prev_month": 0.1
-  },
-  {
-    "label": "August 1994",
-    "price": 70.1,
-    "prev_year": 2.6,
-    "prev_month": 0.3
-  },
-  {
-    "label": "September 1994",
-    "price": 69.9,
-    "prev_year": 2.5,
-    "prev_month": -0.3
-  },
-  {
-    "label": "Oktober 1994",
-    "price": 69.8,
-    "prev_year": 2.3,
-    "prev_month": -0.1
-  },
-  {
-    "label": "November 1994",
-    "price": 69.9,
-    "prev_year": 2.3,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Dezember 1994",
-    "price": 70.1,
-    "prev_year": 2.3,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Januar 1995",
-    "price": 70.4,
-    "prev_year": 2.3,
-    "prev_month": 0.4
-  },
-  {
-    "label": "Februar 1995",
-    "price": 70.8,
-    "prev_year": 2.0,
-    "prev_month": 0.6
-  },
-  {
-    "label": "M\u00e4rz 1995",
-    "price": 70.8,
-    "prev_year": 1.9,
-    "prev_month": null
-  },
-  {
-    "label": "April 1995",
-    "price": 70.9,
-    "prev_year": 1.9,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Mai 1995",
-    "price": 70.9,
-    "prev_year": 1.7,
-    "prev_month": null
-  },
-  {
-    "label": "Juni 1995",
-    "price": 71.0,
-    "prev_year": 1.7,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Juli 1995",
-    "price": 71.2,
-    "prev_year": 1.9,
-    "prev_month": 0.3
-  },
-  {
-    "label": "August 1995",
-    "price": 71.2,
-    "prev_year": 1.6,
-    "prev_month": null
-  },
-  {
-    "label": "September 1995",
-    "price": 71.2,
-    "prev_year": 1.9,
-    "prev_month": null
-  },
-  {
-    "label": "Oktober 1995",
-    "price": 71.0,
-    "prev_year": 1.7,
-    "prev_month": -0.3
-  },
-  {
-    "label": "November 1995",
-    "price": 71.0,
-    "prev_year": 1.6,
-    "prev_month": null
-  },
-  {
-    "label": "Dezember 1995",
-    "price": 71.2,
-    "prev_year": 1.6,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Januar 1996",
-    "price": 71.4,
-    "prev_year": 1.4,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Februar 1996",
-    "price": 71.8,
-    "prev_year": 1.4,
-    "prev_month": 0.6
-  },
-  {
-    "label": "M\u00e4rz 1996",
-    "price": 71.8,
-    "prev_year": 1.4,
-    "prev_month": null
-  },
-  {
-    "label": "April 1996",
-    "price": 71.8,
-    "prev_year": 1.3,
-    "prev_month": null
-  },
-  {
-    "label": "Mai 1996",
-    "price": 71.9,
-    "prev_year": 1.4,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Juni 1996",
-    "price": 72.0,
-    "prev_year": 1.4,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Juli 1996",
-    "price": 72.1,
-    "prev_year": 1.3,
-    "prev_month": 0.1
-  },
-  {
-    "label": "August 1996",
-    "price": 72.1,
-    "prev_year": 1.3,
-    "prev_month": null
-  },
-  {
-    "label": "September 1996",
-    "price": 72.1,
-    "prev_year": 1.3,
-    "prev_month": null
-  },
-  {
-    "label": "Oktober 1996",
-    "price": 72.1,
-    "prev_year": 1.5,
-    "prev_month": null
-  },
-  {
-    "label": "November 1996",
-    "price": 72.0,
-    "prev_year": 1.4,
-    "prev_month": -0.1
-  },
-  {
-    "label": "Dezember 1996",
-    "price": 72.3,
-    "prev_year": 1.5,
-    "prev_month": 0.4
-  },
-  {
-    "label": "Januar 1997",
-    "price": 72.9,
-    "prev_year": 2.1,
-    "prev_month": 0.8
-  },
-  {
-    "label": "Februar 1997",
-    "price": 73.0,
-    "prev_year": 1.7,
-    "prev_month": 0.1
-  },
-  {
-    "label": "M\u00e4rz 1997",
-    "price": 73.0,
-    "prev_year": 1.7,
-    "prev_month": null
-  },
-  {
-    "label": "April 1997",
-    "price": 72.9,
-    "prev_year": 1.5,
-    "prev_month": -0.1
-  },
-  {
-    "label": "Mai 1997",
-    "price": 73.1,
-    "prev_year": 1.7,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Juni 1997",
-    "price": 73.1,
-    "prev_year": 1.5,
-    "prev_month": null
-  },
-  {
-    "label": "Juli 1997",
-    "price": 73.8,
-    "prev_year": 2.4,
-    "prev_month": 1.0
-  },
-  {
-    "label": "August 1997",
-    "price": 73.8,
-    "prev_year": 2.4,
-    "prev_month": null
-  },
-  {
-    "label": "September 1997",
-    "price": 73.7,
-    "prev_year": 2.2,
-    "prev_month": -0.1
-  },
-  {
-    "label": "Oktober 1997",
-    "price": 73.6,
-    "prev_year": 2.1,
-    "prev_month": -0.1
-  },
-  {
-    "label": "November 1997",
-    "price": 73.6,
-    "prev_year": 2.2,
-    "prev_month": null
-  },
-  {
-    "label": "Dezember 1997",
-    "price": 73.8,
-    "prev_year": 2.1,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Januar 1998",
-    "price": 73.8,
-    "prev_year": 1.2,
-    "prev_month": null
-  },
-  {
-    "label": "Februar 1998",
-    "price": 73.9,
-    "prev_year": 1.2,
-    "prev_month": 0.1
-  },
-  {
-    "label": "M\u00e4rz 1998",
-    "price": 73.8,
-    "prev_year": 1.1,
-    "prev_month": -0.1
-  },
-  {
-    "label": "April 1998",
-    "price": 73.9,
-    "prev_year": 1.4,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Mai 1998",
-    "price": 74.0,
-    "prev_year": 1.2,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Juni 1998",
-    "price": 74.1,
-    "prev_year": 1.4,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Juli 1998",
-    "price": 74.4,
-    "prev_year": 0.8,
-    "prev_month": 0.4
-  },
-  {
-    "label": "August 1998",
-    "price": 74.2,
-    "prev_year": 0.5,
-    "prev_month": -0.3
-  },
-  {
-    "label": "September 1998",
-    "price": 74.0,
-    "prev_year": 0.4,
-    "prev_month": -0.3
-  },
-  {
-    "label": "Oktober 1998",
-    "price": 73.9,
-    "prev_year": 0.4,
-    "prev_month": -0.1
-  },
-  {
-    "label": "November 1998",
-    "price": 73.9,
-    "prev_year": 0.4,
-    "prev_month": null
-  },
-  {
-    "label": "Dezember 1998",
-    "price": 74.0,
-    "prev_year": 0.3,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Januar 1999",
-    "price": 73.9,
-    "prev_year": 0.1,
-    "prev_month": -0.1
-  },
-  {
-    "label": "Februar 1999",
-    "price": 74.0,
-    "prev_year": 0.1,
-    "prev_month": 0.1
-  },
-  {
-    "label": "M\u00e4rz 1999",
-    "price": 74.0,
-    "prev_year": 0.3,
-    "prev_month": null
-  },
-  {
-    "label": "April 1999",
-    "price": 74.4,
-    "prev_year": 0.7,
-    "prev_month": 0.5
-  },
-  {
-    "label": "Mai 1999",
-    "price": 74.4,
-    "prev_year": 0.5,
-    "prev_month": null
-  },
-  {
-    "label": "Juni 1999",
-    "price": 74.5,
-    "prev_year": 0.5,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Juli 1999",
-    "price": 74.8,
-    "prev_year": 0.5,
-    "prev_month": 0.4
-  },
-  {
-    "label": "August 1999",
-    "price": 74.8,
-    "prev_year": 0.8,
-    "prev_month": null
-  },
-  {
-    "label": "September 1999",
-    "price": 74.6,
-    "prev_year": 0.8,
-    "prev_month": -0.3
-  },
-  {
-    "label": "Oktober 1999",
-    "price": 74.5,
-    "prev_year": 0.8,
-    "prev_month": -0.1
-  },
-  {
-    "label": "November 1999",
-    "price": 74.7,
-    "prev_year": 1.1,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Dezember 1999",
-    "price": 74.9,
-    "prev_year": 1.2,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Januar 2000",
-    "price": 75.1,
-    "prev_year": 1.6,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Februar 2000",
-    "price": 75.1,
-    "prev_year": 1.5,
-    "prev_month": null
-  },
-  {
-    "label": "M\u00e4rz 2000",
-    "price": 75.1,
-    "prev_year": 1.5,
-    "prev_month": null
-  },
-  {
-    "label": "April 2000",
-    "price": 75.1,
-    "prev_year": 0.9,
-    "prev_month": null
-  },
-  {
-    "label": "Mai 2000",
-    "price": 75.1,
-    "prev_year": 0.9,
-    "prev_month": null
-  },
-  {
-    "label": "Juni 2000",
-    "price": 75.4,
-    "prev_year": 1.2,
-    "prev_month": 0.4
-  },
-  {
-    "label": "Juli 2000",
-    "price": 75.8,
-    "prev_year": 1.3,
-    "prev_month": 0.5
-  },
-  {
-    "label": "August 2000",
-    "price": 75.6,
-    "prev_year": 1.1,
-    "prev_month": -0.3
-  },
-  {
-    "label": "September 2000",
-    "price": 75.8,
-    "prev_year": 1.6,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Oktober 2000",
-    "price": 75.7,
-    "prev_year": 1.6,
-    "prev_month": -0.1
-  },
-  {
-    "label": "November 2000",
-    "price": 75.8,
-    "prev_year": 1.5,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Dezember 2000",
-    "price": 76.4,
-    "prev_year": 2.0,
-    "prev_month": 0.8
-  },
-  {
-    "label": "Januar 2001",
-    "price": 76.2,
-    "prev_year": 1.5,
-    "prev_month": -0.3
-  },
-  {
-    "label": "Februar 2001",
-    "price": 76.6,
-    "prev_year": 2.0,
-    "prev_month": 0.5
-  },
-  {
-    "label": "M\u00e4rz 2001",
-    "price": 76.6,
-    "prev_year": 2.0,
-    "prev_month": null
-  },
-  {
-    "label": "April 2001",
-    "price": 76.9,
-    "prev_year": 2.4,
-    "prev_month": 0.4
-  },
-  {
-    "label": "Mai 2001",
-    "price": 77.2,
-    "prev_year": 2.8,
-    "prev_month": 0.4
-  },
-  {
-    "label": "Juni 2001",
-    "price": 77.3,
-    "prev_year": 2.5,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Juli 2001",
-    "price": 77.4,
-    "prev_year": 2.1,
-    "prev_month": 0.1
-  },
-  {
-    "label": "August 2001",
-    "price": 77.2,
-    "prev_year": 2.1,
-    "prev_month": -0.3
-  },
-  {
-    "label": "September 2001",
-    "price": 77.2,
-    "prev_year": 1.8,
-    "prev_month": null
-  },
-  {
-    "label": "Oktober 2001",
-    "price": 77.1,
-    "prev_year": 1.8,
-    "prev_month": -0.1
-  },
-  {
-    "label": "November 2001",
-    "price": 76.9,
-    "prev_year": 1.5,
-    "prev_month": -0.3
-  },
-  {
-    "label": "Dezember 2001",
-    "price": 77.7,
-    "prev_year": 1.7,
-    "prev_month": 1.0
-  },
-  {
-    "label": "Januar 2002",
-    "price": 77.7,
-    "prev_year": 2.0,
-    "prev_month": null
-  },
-  {
-    "label": "Februar 2002",
-    "price": 78.0,
-    "prev_year": 1.8,
-    "prev_month": 0.4
-  },
-  {
-    "label": "M\u00e4rz 2002",
-    "price": 78.2,
-    "prev_year": 2.1,
-    "prev_month": 0.3
-  },
-  {
-    "label": "April 2002",
-    "price": 78.1,
-    "prev_year": 1.6,
-    "prev_month": -0.1
-  },
-  {
-    "label": "Mai 2002",
-    "price": 78.2,
-    "prev_year": 1.3,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Juni 2002",
-    "price": 78.2,
-    "prev_year": 1.2,
-    "prev_month": null
-  },
-  {
-    "label": "Juli 2002",
-    "price": 78.3,
-    "prev_year": 1.2,
-    "prev_month": 0.1
-  },
-  {
-    "label": "August 2002",
-    "price": 78.2,
-    "prev_year": 1.3,
-    "prev_month": -0.1
-  },
-  {
-    "label": "September 2002",
-    "price": 78.2,
-    "prev_year": 1.3,
-    "prev_month": null
-  },
-  {
-    "label": "Oktober 2002",
-    "price": 78.1,
-    "prev_year": 1.3,
-    "prev_month": -0.1
-  },
-  {
-    "label": "November 2002",
-    "price": 77.8,
-    "prev_year": 1.2,
-    "prev_month": -0.4
-  },
-  {
-    "label": "Dezember 2002",
-    "price": 78.5,
-    "prev_year": 1.0,
-    "prev_month": 0.9
-  },
-  {
-    "label": "Januar 2003",
-    "price": 78.5,
-    "prev_year": 1.0,
-    "prev_month": null
-  },
-  {
-    "label": "Februar 2003",
-    "price": 79.0,
-    "prev_year": 1.3,
-    "prev_month": 0.6
-  },
-  {
-    "label": "M\u00e4rz 2003",
-    "price": 79.0,
-    "prev_year": 1.0,
-    "prev_month": null
-  },
-  {
-    "label": "April 2003",
-    "price": 78.8,
-    "prev_year": 0.9,
-    "prev_month": -0.3
-  },
-  {
-    "label": "Mai 2003",
-    "price": 78.6,
-    "prev_year": 0.5,
-    "prev_month": -0.3
-  },
-  {
-    "label": "Juni 2003",
-    "price": 78.9,
-    "prev_year": 0.9,
-    "prev_month": 0.4
-  },
-  {
-    "label": "Juli 2003",
-    "price": 79.0,
-    "prev_year": 0.9,
-    "prev_month": 0.1
-  },
-  {
-    "label": "August 2003",
-    "price": 79.0,
-    "prev_year": 1.0,
-    "prev_month": null
-  },
-  {
-    "label": "September 2003",
-    "price": 79.0,
-    "prev_year": 1.0,
-    "prev_month": null
-  },
-  {
-    "label": "Oktober 2003",
-    "price": 79.0,
-    "prev_year": 1.2,
-    "prev_month": null
-  },
-  {
-    "label": "November 2003",
-    "price": 78.8,
-    "prev_year": 1.3,
-    "prev_month": -0.3
-  },
-  {
-    "label": "Dezember 2003",
-    "price": 79.4,
-    "prev_year": 1.1,
-    "prev_month": 0.8
-  },
-  {
-    "label": "Januar 2004",
-    "price": 79.4,
-    "prev_year": 1.1,
-    "prev_month": null
-  },
-  {
-    "label": "Februar 2004",
-    "price": 79.6,
-    "prev_year": 0.8,
-    "prev_month": 0.3
-  },
-  {
-    "label": "M\u00e4rz 2004",
-    "price": 79.9,
-    "prev_year": 1.1,
-    "prev_month": 0.4
-  },
-  {
-    "label": "April 2004",
-    "price": 80.1,
-    "prev_year": 1.6,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Mai 2004",
-    "price": 80.3,
-    "prev_year": 2.2,
-    "prev_month": 0.2
-  },
-  {
-    "label": "Juni 2004",
-    "price": 80.3,
-    "prev_year": 1.8,
-    "prev_month": null
-  },
-  {
-    "label": "Juli 2004",
-    "price": 80.4,
-    "prev_year": 1.8,
-    "prev_month": 0.1
-  },
-  {
-    "label": "August 2004",
-    "price": 80.5,
-    "prev_year": 1.9,
-    "prev_month": 0.1
-  },
-  {
-    "label": "September 2004",
-    "price": 80.3,
-    "prev_year": 1.6,
-    "prev_month": -0.2
-  },
-  {
-    "label": "Oktober 2004",
-    "price": 80.4,
-    "prev_year": 1.8,
-    "prev_month": 0.1
-  },
-  {
-    "label": "November 2004",
-    "price": 80.3,
-    "prev_year": 1.9,
-    "prev_month": -0.1
-  },
-  {
-    "label": "Dezember 2004",
-    "price": 81.2,
-    "prev_year": 2.3,
-    "prev_month": 1.1
-  },
-  {
-    "label": "Januar 2005",
-    "price": 80.6,
-    "prev_year": 1.5,
-    "prev_month": -0.7
-  },
-  {
-    "label": "Februar 2005",
-    "price": 80.9,
-    "prev_year": 1.6,
-    "prev_month": 0.4
-  },
-  {
-    "label": "M\u00e4rz 2005",
-    "price": 81.3,
-    "prev_year": 1.8,
-    "prev_month": 0.5
-  },
-  {
-    "label": "April 2005",
-    "price": 81.0,
-    "prev_year": 1.1,
-    "prev_month": -0.4
-  },
-  {
-    "label": "Mai 2005",
-    "price": 81.2,
-    "prev_year": 1.1,
-    "prev_month": 0.2
-  },
-  {
-    "label": "Juni 2005",
-    "price": 81.3,
-    "prev_year": 1.2,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Juli 2005",
-    "price": 81.7,
-    "prev_year": 1.6,
-    "prev_month": 0.5
-  },
-  {
-    "label": "August 2005",
-    "price": 81.8,
-    "prev_year": 1.6,
-    "prev_month": 0.1
-  },
-  {
-    "label": "September 2005",
-    "price": 81.9,
-    "prev_year": 2.0,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Oktober 2005",
-    "price": 81.9,
-    "prev_year": 1.9,
-    "prev_month": null
-  },
-  {
-    "label": "November 2005",
-    "price": 81.7,
-    "prev_year": 1.7,
-    "prev_month": -0.2
-  },
-  {
-    "label": "Dezember 2005",
-    "price": 82.3,
-    "prev_year": 1.4,
-    "prev_month": 0.7
-  },
-  {
-    "label": "Januar 2006",
-    "price": 82.0,
-    "prev_year": 1.7,
-    "prev_month": -0.4
-  },
-  {
-    "label": "Februar 2006",
-    "price": 82.4,
-    "prev_year": 1.9,
-    "prev_month": 0.5
-  },
-  {
-    "label": "M\u00e4rz 2006",
-    "price": 82.4,
-    "prev_year": 1.4,
-    "prev_month": null
-  },
-  {
-    "label": "April 2006",
-    "price": 82.7,
-    "prev_year": 2.1,
-    "prev_month": 0.4
-  },
-  {
-    "label": "Mai 2006",
-    "price": 82.7,
-    "prev_year": 1.8,
-    "prev_month": null
-  },
-  {
-    "label": "Juni 2006",
-    "price": 82.9,
-    "prev_year": 2.0,
-    "prev_month": 0.2
-  },
-  {
-    "label": "Juli 2006",
-    "price": 83.2,
-    "prev_year": 1.8,
-    "prev_month": 0.4
-  },
-  {
-    "label": "August 2006",
-    "price": 83.0,
-    "prev_year": 1.5,
-    "prev_month": -0.2
-  },
-  {
-    "label": "September 2006",
-    "price": 82.7,
-    "prev_year": 1.0,
-    "prev_month": -0.4
-  },
-  {
-    "label": "Oktober 2006",
-    "price": 82.8,
-    "prev_year": 1.1,
-    "prev_month": 0.1
-  },
-  {
-    "label": "November 2006",
-    "price": 82.8,
-    "prev_year": 1.3,
-    "prev_month": null
-  },
-  {
-    "label": "Dezember 2006",
-    "price": 83.5,
-    "prev_year": 1.5,
-    "prev_month": 0.8
-  },
-  {
-    "label": "Januar 2007",
-    "price": 83.5,
-    "prev_year": 1.8,
-    "prev_month": null
-  },
-  {
-    "label": "Februar 2007",
-    "price": 83.8,
-    "prev_year": 1.7,
-    "prev_month": 0.4
-  },
-  {
-    "label": "M\u00e4rz 2007",
-    "price": 84.0,
-    "prev_year": 1.9,
-    "prev_month": 0.2
-  },
-  {
-    "label": "April 2007",
-    "price": 84.4,
-    "prev_year": 2.1,
-    "prev_month": 0.5
-  },
-  {
-    "label": "Mai 2007",
-    "price": 84.4,
-    "prev_year": 2.1,
-    "prev_month": null
-  },
-  {
-    "label": "Juni 2007",
-    "price": 84.5,
-    "prev_year": 1.9,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Juli 2007",
-    "price": 84.9,
-    "prev_year": 2.0,
-    "prev_month": 0.5
-  },
-  {
-    "label": "August 2007",
-    "price": 84.8,
-    "prev_year": 2.2,
-    "prev_month": -0.1
-  },
-  {
-    "label": "September 2007",
-    "price": 84.9,
-    "prev_year": 2.7,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Oktober 2007",
-    "price": 85.1,
-    "prev_year": 2.8,
-    "prev_month": 0.2
-  },
-  {
-    "label": "November 2007",
-    "price": 85.6,
-    "prev_year": 3.4,
-    "prev_month": 0.6
-  },
-  {
-    "label": "Dezember 2007",
-    "price": 86.1,
-    "prev_year": 3.1,
-    "prev_month": 0.6
-  },
-  {
-    "label": "Januar 2008",
-    "price": 85.8,
-    "prev_year": 2.8,
-    "prev_month": -0.3
-  },
-  {
-    "label": "Februar 2008",
-    "price": 86.2,
-    "prev_year": 2.9,
-    "prev_month": 0.5
-  },
-  {
-    "label": "M\u00e4rz 2008",
-    "price": 86.6,
-    "prev_year": 3.1,
-    "prev_month": 0.5
-  },
-  {
-    "label": "April 2008",
-    "price": 86.4,
-    "prev_year": 2.4,
-    "prev_month": -0.2
-  },
-  {
-    "label": "Mai 2008",
-    "price": 86.9,
-    "prev_year": 3.0,
-    "prev_month": 0.6
-  },
-  {
-    "label": "Juni 2008",
-    "price": 87.2,
-    "prev_year": 3.2,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Juli 2008",
-    "price": 87.7,
-    "prev_year": 3.3,
-    "prev_month": 0.6
-  },
-  {
-    "label": "August 2008",
-    "price": 87.4,
-    "prev_year": 3.1,
-    "prev_month": -0.3
-  },
-  {
-    "label": "September 2008",
-    "price": 87.4,
-    "prev_year": 2.9,
-    "prev_month": null
-  },
-  {
-    "label": "Oktober 2008",
-    "price": 87.2,
-    "prev_year": 2.5,
-    "prev_month": -0.2
-  },
-  {
-    "label": "November 2008",
-    "price": 86.8,
-    "prev_year": 1.4,
-    "prev_month": -0.5
-  },
-  {
-    "label": "Dezember 2008",
-    "price": 87.0,
-    "prev_year": 1.0,
-    "prev_month": 0.2
-  },
-  {
-    "label": "Januar 2009",
-    "price": 86.6,
-    "prev_year": 0.9,
-    "prev_month": -0.5
-  },
-  {
-    "label": "Februar 2009",
-    "price": 87.1,
-    "prev_year": 1.0,
-    "prev_month": 0.6
-  },
-  {
-    "label": "M\u00e4rz 2009",
-    "price": 87.0,
-    "prev_year": 0.5,
-    "prev_month": -0.1
-  },
-  {
-    "label": "April 2009",
-    "price": 87.0,
-    "prev_year": 0.7,
-    "prev_month": null
-  },
-  {
-    "label": "Mai 2009",
-    "price": 87.0,
-    "prev_year": 0.1,
-    "prev_month": null
-  },
-  {
-    "label": "Juni 2009",
-    "price": 87.3,
-    "prev_year": 0.1,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Juli 2009",
-    "price": 87.3,
-    "prev_year": -0.5,
-    "prev_month": null
-  },
-  {
-    "label": "August 2009",
-    "price": 87.5,
-    "prev_year": 0.1,
-    "prev_month": 0.2
-  },
-  {
-    "label": "September 2009",
-    "price": 87.1,
-    "prev_year": -0.3,
-    "prev_month": -0.5
-  },
-  {
-    "label": "Oktober 2009",
-    "price": 87.2,
-    "prev_year": null,
-    "prev_month": 0.1
-  },
-  {
-    "label": "November 2009",
-    "price": 87.1,
-    "prev_year": 0.3,
-    "prev_month": -0.1
-  },
-  {
-    "label": "Dezember 2009",
-    "price": 87.8,
-    "prev_year": 0.9,
-    "prev_month": 0.8
-  },
-  {
-    "label": "Januar 2010",
-    "price": 87.3,
-    "prev_year": 0.8,
-    "prev_month": -0.6
-  },
-  {
-    "label": "Februar 2010",
-    "price": 87.6,
-    "prev_year": 0.6,
-    "prev_month": 0.3
-  },
-  {
-    "label": "M\u00e4rz 2010",
-    "price": 88.1,
-    "prev_year": 1.3,
-    "prev_month": 0.6
-  },
-  {
-    "label": "April 2010",
-    "price": 88.1,
-    "prev_year": 1.3,
-    "prev_month": null
-  },
-  {
-    "label": "Mai 2010",
-    "price": 88.1,
-    "prev_year": 1.3,
-    "prev_month": null
-  },
-  {
-    "label": "Juni 2010",
-    "price": 88.1,
-    "prev_year": 0.9,
-    "prev_month": null
-  },
-  {
-    "label": "Juli 2010",
-    "price": 88.2,
-    "prev_year": 1.0,
-    "prev_month": 0.1
-  },
-  {
-    "label": "August 2010",
-    "price": 88.3,
-    "prev_year": 0.9,
-    "prev_month": 0.1
-  },
-  {
-    "label": "September 2010",
-    "price": 88.2,
-    "prev_year": 1.3,
-    "prev_month": -0.1
-  },
-  {
-    "label": "Oktober 2010",
-    "price": 88.3,
-    "prev_year": 1.3,
-    "prev_month": 0.1
-  },
-  {
-    "label": "November 2010",
-    "price": 88.4,
-    "prev_year": 1.5,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Dezember 2010",
-    "price": 89.0,
-    "prev_year": 1.4,
-    "prev_month": 0.7
-  },
-  {
-    "label": "Januar 2011",
-    "price": 88.7,
-    "prev_year": 1.6,
-    "prev_month": -0.3
-  },
-  {
-    "label": "Februar 2011",
-    "price": 89.3,
-    "prev_year": 1.9,
-    "prev_month": 0.7
-  },
-  {
-    "label": "M\u00e4rz 2011",
-    "price": 89.8,
-    "prev_year": 1.9,
-    "prev_month": 0.6
-  },
-  {
-    "label": "April 2011",
-    "price": 89.8,
-    "prev_year": 1.9,
-    "prev_month": null
-  },
-  {
-    "label": "Mai 2011",
-    "price": 89.8,
-    "prev_year": 1.9,
-    "prev_month": null
-  },
-  {
-    "label": "Juni 2011",
-    "price": 89.9,
-    "prev_year": 2.0,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Juli 2011",
-    "price": 90.1,
-    "prev_year": 2.2,
-    "prev_month": 0.2
-  },
-  {
-    "label": "August 2011",
-    "price": 90.2,
-    "prev_year": 2.2,
-    "prev_month": 0.1
-  },
-  {
-    "label": "September 2011",
-    "price": 90.3,
-    "prev_year": 2.4,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Oktober 2011",
-    "price": 90.4,
-    "prev_year": 2.4,
-    "prev_month": 0.1
-  },
-  {
-    "label": "November 2011",
-    "price": 90.5,
-    "prev_year": 2.4,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Dezember 2011",
-    "price": 90.7,
-    "prev_year": 1.9,
-    "prev_month": 0.2
-  },
-  {
-    "label": "Januar 2012",
-    "price": 90.6,
-    "prev_year": 2.1,
-    "prev_month": -0.1
-  },
-  {
-    "label": "Februar 2012",
-    "price": 91.2,
-    "prev_year": 2.1,
-    "prev_month": 0.7
-  },
-  {
-    "label": "M\u00e4rz 2012",
-    "price": 91.7,
-    "prev_year": 2.1,
-    "prev_month": 0.5
-  },
-  {
-    "label": "April 2012",
-    "price": 91.6,
-    "prev_year": 2.0,
-    "prev_month": -0.1
-  },
-  {
-    "label": "Mai 2012",
-    "price": 91.5,
-    "prev_year": 1.9,
-    "prev_month": -0.1
-  },
-  {
-    "label": "Juni 2012",
-    "price": 91.4,
-    "prev_year": 1.7,
-    "prev_month": -0.1
-  },
-  {
-    "label": "Juli 2012",
-    "price": 91.7,
-    "prev_year": 1.8,
-    "prev_month": 0.3
-  },
-  {
-    "label": "August 2012",
-    "price": 92.1,
-    "prev_year": 2.1,
-    "prev_month": 0.4
-  },
-  {
-    "label": "September 2012",
-    "price": 92.2,
-    "prev_year": 2.1,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Oktober 2012",
-    "price": 92.2,
-    "prev_year": 2.0,
-    "prev_month": null
-  },
-  {
-    "label": "November 2012",
-    "price": 92.2,
-    "prev_year": 1.9,
-    "prev_month": null
-  },
-  {
-    "label": "Dezember 2012",
-    "price": 92.5,
-    "prev_year": 2.0,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Januar 2013",
-    "price": 92.1,
-    "prev_year": 1.7,
-    "prev_month": -0.4
-  },
-  {
-    "label": "Februar 2013",
-    "price": 92.6,
-    "prev_year": 1.5,
-    "prev_month": 0.5
-  },
-  {
-    "label": "M\u00e4rz 2013",
-    "price": 93.0,
-    "prev_year": 1.4,
-    "prev_month": 0.4
-  },
-  {
-    "label": "April 2013",
-    "price": 92.6,
-    "prev_year": 1.1,
-    "prev_month": -0.4
-  },
-  {
-    "label": "Mai 2013",
-    "price": 93.0,
-    "prev_year": 1.6,
-    "prev_month": 0.4
-  },
-  {
-    "label": "Juni 2013",
-    "price": 93.1,
-    "prev_year": 1.9,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Juli 2013",
-    "price": 93.5,
-    "prev_year": 2.0,
-    "prev_month": 0.4
-  },
-  {
-    "label": "August 2013",
-    "price": 93.5,
-    "prev_year": 1.5,
-    "prev_month": null
-  },
-  {
-    "label": "September 2013",
-    "price": 93.5,
-    "prev_year": 1.4,
-    "prev_month": null
-  },
-  {
-    "label": "Oktober 2013",
-    "price": 93.3,
-    "prev_year": 1.2,
-    "prev_month": -0.2
-  },
-  {
-    "label": "November 2013",
-    "price": 93.5,
-    "prev_year": 1.4,
-    "prev_month": 0.2
-  },
-  {
-    "label": "Dezember 2013",
-    "price": 93.9,
-    "prev_year": 1.5,
-    "prev_month": 0.4
-  },
-  {
-    "label": "Januar 2014",
-    "price": 93.3,
-    "prev_year": 1.3,
-    "prev_month": -0.6
-  },
-  {
-    "label": "Februar 2014",
-    "price": 93.8,
-    "prev_year": 1.3,
-    "prev_month": 0.5
-  },
-  {
-    "label": "M\u00e4rz 2014",
-    "price": 94.0,
-    "prev_year": 1.1,
-    "prev_month": 0.2
-  },
-  {
-    "label": "April 2014",
-    "price": 93.9,
-    "prev_year": 1.4,
-    "prev_month": -0.1
-  },
-  {
-    "label": "Mai 2014",
-    "price": 93.8,
-    "prev_year": 0.9,
-    "prev_month": -0.1
-  },
-  {
-    "label": "Juni 2014",
-    "price": 94.0,
-    "prev_year": 1.0,
-    "prev_month": 0.2
-  },
-  {
-    "label": "Juli 2014",
-    "price": 94.3,
-    "prev_year": 0.9,
-    "prev_month": 0.3
-  },
-  {
-    "label": "August 2014",
-    "price": 94.3,
-    "prev_year": 0.9,
-    "prev_month": null
-  },
-  {
-    "label": "September 2014",
-    "price": 94.3,
-    "prev_year": 0.9,
-    "prev_month": null
-  },
-  {
-    "label": "Oktober 2014",
-    "price": 94.1,
-    "prev_year": 0.9,
-    "prev_month": -0.2
-  },
-  {
-    "label": "November 2014",
-    "price": 94.1,
-    "prev_year": 0.6,
-    "prev_month": null
-  },
-  {
-    "label": "Dezember 2014",
-    "price": 94.0,
-    "prev_year": 0.1,
-    "prev_month": -0.1
-  },
-  {
-    "label": "Januar 2015",
-    "price": 93.1,
-    "prev_year": -0.2,
-    "prev_month": -1.0
-  },
-  {
-    "label": "Februar 2015",
-    "price": 93.8,
-    "prev_year": null,
-    "prev_month": 0.8
-  },
-  {
-    "label": "M\u00e4rz 2015",
-    "price": 94.3,
-    "prev_year": 0.3,
-    "prev_month": 0.5
-  },
-  {
-    "label": "April 2015",
-    "price": 94.7,
-    "prev_year": 0.9,
-    "prev_month": 0.4
-  },
-  {
-    "label": "Mai 2015",
-    "price": 94.9,
-    "prev_year": 1.2,
-    "prev_month": 0.2
-  },
-  {
-    "label": "Juni 2015",
-    "price": 94.9,
-    "prev_year": 1.0,
-    "prev_month": null
-  },
-  {
-    "label": "Juli 2015",
-    "price": 95.1,
-    "prev_year": 0.8,
-    "prev_month": 0.2
-  },
-  {
-    "label": "August 2015",
-    "price": 95.0,
-    "prev_year": 0.7,
-    "prev_month": -0.1
-  },
-  {
-    "label": "September 2015",
-    "price": 94.9,
-    "prev_year": 0.6,
-    "prev_month": -0.1
-  },
-  {
-    "label": "Oktober 2015",
-    "price": 94.9,
-    "prev_year": 0.9,
-    "prev_month": null
-  },
-  {
-    "label": "November 2015",
-    "price": 94.3,
-    "prev_year": 0.2,
-    "prev_month": -0.6
-  },
-  {
-    "label": "Dezember 2015",
-    "price": 94.3,
-    "prev_year": 0.3,
-    "prev_month": null
-  },
-  {
-    "label": "Januar 2016",
-    "price": 93.6,
-    "prev_year": 0.5,
-    "prev_month": -0.7
-  },
-  {
-    "label": "Februar 2016",
-    "price": 93.9,
-    "prev_year": 0.1,
-    "prev_month": 0.3
-  },
-  {
-    "label": "M\u00e4rz 2016",
-    "price": 94.5,
-    "prev_year": 0.2,
-    "prev_month": 0.6
-  },
-  {
-    "label": "April 2016",
-    "price": 94.6,
-    "prev_year": -0.1,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Mai 2016",
-    "price": 95.1,
-    "prev_year": 0.2,
-    "prev_month": 0.5
-  },
-  {
-    "label": "Juni 2016",
-    "price": 95.2,
-    "prev_year": 0.3,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Juli 2016",
-    "price": 95.5,
-    "prev_year": 0.4,
-    "prev_month": 0.3
-  },
-  {
-    "label": "August 2016",
-    "price": 95.4,
-    "prev_year": 0.4,
-    "prev_month": -0.1
-  },
-  {
-    "label": "September 2016",
-    "price": 95.5,
-    "prev_year": 0.6,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Oktober 2016",
-    "price": 95.6,
-    "prev_year": 0.7,
-    "prev_month": 0.1
-  },
-  {
-    "label": "November 2016",
-    "price": 95.0,
-    "prev_year": 0.7,
-    "prev_month": -0.6
-  },
-  {
-    "label": "Dezember 2016",
-    "price": 95.6,
-    "prev_year": 1.4,
-    "prev_month": 0.6
-  },
-  {
-    "label": "Januar 2017",
-    "price": 95.1,
-    "prev_year": 1.6,
-    "prev_month": -0.5
-  },
-  {
-    "label": "Februar 2017",
-    "price": 95.6,
-    "prev_year": 1.8,
-    "prev_month": 0.5
-  },
-  {
-    "label": "M\u00e4rz 2017",
-    "price": 95.8,
-    "prev_year": 1.4,
-    "prev_month": 0.2
-  },
-  {
-    "label": "April 2017",
-    "price": 96.2,
-    "prev_year": 1.7,
-    "prev_month": 0.4
-  },
-  {
-    "label": "Mai 2017",
-    "price": 96.2,
-    "prev_year": 1.2,
-    "prev_month": null
-  },
-  {
-    "label": "Juni 2017",
-    "price": 96.5,
-    "prev_year": 1.4,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Juli 2017",
-    "price": 96.9,
-    "prev_year": 1.5,
-    "prev_month": 0.4
-  },
-  {
-    "label": "August 2017",
-    "price": 97.0,
-    "prev_year": 1.7,
-    "prev_month": 0.1
-  },
-  {
-    "label": "September 2017",
-    "price": 97.0,
-    "prev_year": 1.6,
-    "prev_month": null
-  },
-  {
-    "label": "Oktober 2017",
-    "price": 96.9,
-    "prev_year": 1.4,
-    "prev_month": -0.1
-  },
-  {
-    "label": "November 2017",
-    "price": 96.5,
-    "prev_year": 1.6,
-    "prev_month": -0.4
-  },
-  {
-    "label": "Dezember 2017",
-    "price": 96.9,
-    "prev_year": 1.4,
-    "prev_month": 0.4
-  },
-  {
-    "label": "Januar 2018",
-    "price": 96.4,
-    "prev_year": 1.4,
-    "prev_month": -0.5
-  },
-  {
-    "label": "Februar 2018",
-    "price": 96.7,
-    "prev_year": 1.2,
-    "prev_month": 0.3
-  },
-  {
-    "label": "M\u00e4rz 2018",
-    "price": 97.2,
-    "prev_year": 1.5,
-    "prev_month": 0.5
-  },
-  {
-    "label": "April 2018",
-    "price": 97.5,
-    "prev_year": 1.4,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Mai 2018",
-    "price": 98.2,
-    "prev_year": 2.1,
-    "prev_month": 0.7
-  },
-  {
-    "label": "Juni 2018",
-    "price": 98.3,
-    "prev_year": 1.9,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Juli 2018",
-    "price": 98.7,
-    "prev_year": 1.9,
-    "prev_month": 0.4
-  },
-  {
-    "label": "August 2018",
-    "price": 98.8,
-    "prev_year": 1.9,
-    "prev_month": 0.1
-  },
-  {
-    "label": "September 2018",
-    "price": 99.0,
-    "prev_year": 2.1,
-    "prev_month": 0.2
-  },
-  {
-    "label": "Oktober 2018",
-    "price": 99.1,
-    "prev_year": 2.3,
-    "prev_month": 0.1
-  },
-  {
-    "label": "November 2018",
-    "price": 98.5,
-    "prev_year": 2.1,
-    "prev_month": -0.6
-  },
-  {
-    "label": "Dezember 2018",
-    "price": 98.5,
-    "prev_year": 1.7,
-    "prev_month": null
-  },
-  {
-    "label": "Januar 2019",
-    "price": 97.7,
-    "prev_year": 1.3,
-    "prev_month": -0.8
-  },
-  {
-    "label": "Februar 2019",
-    "price": 98.1,
-    "prev_year": 1.4,
-    "prev_month": 0.4
-  },
-  {
-    "label": "M\u00e4rz 2019",
-    "price": 98.5,
-    "prev_year": 1.3,
-    "prev_month": 0.4
-  },
-  {
-    "label": "April 2019",
-    "price": 99.4,
-    "prev_year": 1.9,
-    "prev_month": 0.9
-  },
-  {
-    "label": "Mai 2019",
-    "price": 99.6,
-    "prev_year": 1.4,
-    "prev_month": 0.2
-  },
-  {
-    "label": "Juni 2019",
-    "price": 99.9,
-    "prev_year": 1.6,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Juli 2019",
-    "price": 100.3,
-    "prev_year": 1.6,
-    "prev_month": 0.4
-  },
-  {
-    "label": "August 2019",
-    "price": 100.2,
-    "prev_year": 1.4,
-    "prev_month": -0.1
-  },
-  {
-    "label": "September 2019",
-    "price": 100.2,
-    "prev_year": 1.2,
-    "prev_month": null
-  },
-  {
-    "label": "Oktober 2019",
-    "price": 100.2,
-    "prev_year": 1.1,
-    "prev_month": null
-  },
-  {
-    "label": "November 2019",
-    "price": 99.5,
-    "prev_year": 1.0,
-    "prev_month": -0.7
-  },
-  {
-    "label": "Dezember 2019",
-    "price": 100.0,
-    "prev_year": 1.5,
-    "prev_month": 0.5
-  },
-  {
-    "label": "Januar 2020",
-    "price": 99.8,
-    "prev_year": 2.1,
-    "prev_month": -0.2
-  },
-  {
-    "label": "Februar 2020",
-    "price": 100.1,
-    "prev_year": 2.0,
-    "prev_month": 0.3
-  },
-  {
-    "label": "M\u00e4rz 2020",
-    "price": 100.3,
-    "prev_year": 1.8,
-    "prev_month": 0.2
-  },
-  {
-    "label": "April 2020",
-    "price": 100.4,
-    "prev_year": 1.0,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Mai 2020",
-    "price": 100.4,
-    "prev_year": 0.8,
-    "prev_month": null
-  },
-  {
-    "label": "Juni 2020",
-    "price": 100.5,
-    "prev_year": 0.6,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Juli 2020",
-    "price": 99.7,
-    "prev_year": -0.6,
-    "prev_month": -0.8
-  },
-  {
-    "label": "August 2020",
-    "price": 99.7,
-    "prev_year": -0.5,
-    "prev_month": null
-  },
-  {
-    "label": "September 2020",
-    "price": 99.7,
-    "prev_year": -0.5,
-    "prev_month": null
-  },
-  {
-    "label": "Oktober 2020",
-    "price": 99.9,
-    "prev_year": -0.3,
-    "prev_month": 0.2
-  },
-  {
-    "label": "November 2020",
-    "price": 99.7,
-    "prev_year": 0.2,
-    "prev_month": -0.2
-  },
-  {
-    "label": "Dezember 2020",
-    "price": 99.8,
-    "prev_year": -0.2,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Januar 2021",
-    "price": 101.0,
-    "prev_year": 1.2,
-    "prev_month": 1.2
-  },
-  {
-    "label": "Februar 2021",
-    "price": 101.6,
-    "prev_year": 1.5,
-    "prev_month": 0.6
-  },
-  {
-    "label": "M\u00e4rz 2021",
-    "price": 102.1,
-    "prev_year": 1.8,
-    "prev_month": 0.5
-  },
-  {
-    "label": "April 2021",
-    "price": 102.4,
-    "prev_year": 2.0,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Mai 2021",
-    "price": 102.6,
-    "prev_year": 2.2,
-    "prev_month": 0.2
-  },
-  {
-    "label": "Juni 2021",
-    "price": 102.9,
-    "prev_year": 2.4,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Juli 2021",
-    "price": 103.4,
-    "prev_year": 3.7,
-    "prev_month": 0.5
-  },
-  {
-    "label": "August 2021",
-    "price": 103.5,
-    "prev_year": 3.8,
-    "prev_month": 0.1
-  },
-  {
-    "label": "September 2021",
-    "price": 103.8,
-    "prev_year": 4.1,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Oktober 2021",
-    "price": 104.3,
-    "prev_year": 4.4,
-    "prev_month": 0.5
-  },
-  {
-    "label": "November 2021",
-    "price": 104.5,
-    "prev_year": 4.8,
-    "prev_month": 0.2
-  },
-  {
-    "label": "Dezember 2021",
-    "price": 104.7,
-    "prev_year": 4.9,
-    "prev_month": 0.2
-  },
-  {
-    "label": "Januar 2022",
-    "price": 105.2,
-    "prev_year": 4.2,
-    "prev_month": 0.5
-  },
-  {
-    "label": "Februar 2022",
-    "price": 106.0,
-    "prev_year": 4.3,
-    "prev_month": 0.8
-  },
-  {
-    "label": "M\u00e4rz 2022",
-    "price": 108.1,
-    "prev_year": 5.9,
-    "prev_month": 2.0
-  },
-  {
-    "label": "April 2022",
-    "price": 108.8,
-    "prev_year": 6.3,
-    "prev_month": 0.6
-  },
-  {
-    "label": "Mai 2022",
-    "price": 109.8,
-    "prev_year": 7.0,
-    "prev_month": 0.9
-  },
-  {
-    "label": "Juni 2022",
-    "price": 109.8,
-    "prev_year": 6.7,
-    "prev_month": null
-  },
-  {
-    "label": "Juli 2022",
-    "price": 110.3,
-    "prev_year": 6.7,
-    "prev_month": 0.5
-  },
-  {
-    "label": "August 2022",
-    "price": 110.7,
-    "prev_year": 7.0,
-    "prev_month": 0.4
-  },
-  {
-    "label": "September 2022",
-    "price": 112.7,
-    "prev_year": 8.6,
-    "prev_month": 1.8
-  },
-  {
-    "label": "Oktober 2022",
-    "price": 113.5,
-    "prev_year": 8.8,
-    "prev_month": 0.7
-  },
-  {
-    "label": "November 2022",
-    "price": 113.7,
-    "prev_year": 8.8,
-    "prev_month": 0.2
-  },
-  {
-    "label": "Dezember 2022",
-    "price": 113.2,
-    "prev_year": 8.1,
-    "prev_month": -0.4
-  },
-  {
-    "label": "Januar 2023",
-    "price": 114.3,
-    "prev_year": 8.7,
-    "prev_month": 1.0
-  },
-  {
-    "label": "Februar 2023",
-    "price": 115.2,
-    "prev_year": 8.7,
-    "prev_month": 0.8
-  },
-  {
-    "label": "M\u00e4rz 2023",
-    "price": 116.1,
-    "prev_year": 7.4,
-    "prev_month": 0.8
-  },
-  {
-    "label": "April 2023",
-    "price": 116.6,
-    "prev_year": 7.2,
-    "prev_month": 0.4
-  },
-  {
-    "label": "Mai 2023",
-    "price": 116.5,
-    "prev_year": 6.1,
-    "prev_month": -0.1
-  },
-  {
-    "label": "Juni 2023",
-    "price": 116.8,
-    "prev_year": 6.4,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Juli 2023",
-    "price": 117.1,
-    "prev_year": 6.2,
-    "prev_month": 0.3
-  },
-  {
-    "label": "August 2023",
-    "price": 117.5,
-    "prev_year": 6.1,
-    "prev_month": 0.3
-  },
-  {
-    "label": "September 2023",
-    "price": 117.8,
-    "prev_year": 4.5,
-    "prev_month": 0.3
-  },
-  {
-    "label": "Oktober 2023",
-    "price": 117.8,
-    "prev_year": 3.8,
-    "prev_month": null
-  },
-  {
-    "label": "November 2023",
-    "price": 117.3,
-    "prev_year": 3.2,
-    "prev_month": -0.4
-  },
-  {
-    "label": "Dezember 2023",
-    "price": 117.4,
-    "prev_year": 3.7,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Januar 2024",
-    "price": 117.6,
-    "prev_year": 2.9,
-    "prev_month": 0.2
-  },
-  {
-    "label": "Februar 2024",
-    "price": 118.1,
-    "prev_year": 2.5,
-    "prev_month": 0.4
-  },
-  {
-    "label": "M\u00e4rz 2024",
-    "price": 118.6,
-    "prev_year": 2.2,
-    "prev_month": 0.4
-  },
-  {
-    "label": "April 2024",
-    "price": 119.2,
-    "prev_year": 2.2,
-    "prev_month": 0.5
-  },
-  {
-    "label": "Mai 2024",
-    "price": 119.3,
-    "prev_year": 2.4,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Juni 2024",
-    "price": 119.4,
-    "prev_year": 2.2,
-    "prev_month": 0.1
-  },
-  {
-    "label": "Juli 2024",
-    "price": 119.8,
-    "prev_year": 2.3,
-    "prev_month": 0.3
-  },
-  {
-    "label": "August 2024",
-    "price": 119.7,
-    "prev_year": 1.9,
-    "prev_month": -0.1
-  },
-  {
-    "label": "September 2024",
-    "price": 119.7,
-    "prev_year": 1.6,
-    "prev_month": null
-  },
-  {
-    "label": "Oktober 2024",
-    "price": 120.2,
-    "prev_year": 2.0,
-    "prev_month": 0.4
-  },
-  {
-    "label": "November 2024",
-    "price": 119.9,
-    "prev_year": 2.2,
-    "prev_month": -0.2
-  },
-  {
-    "label": "Dezember 2024",
-    "price": 120.5,
-    "prev_year": 2.6,
-    "prev_month": 0.5
-  },
-  {
-    "label": "Januar 2025",
-    "price": 120.3,
-    "prev_year": 2.3,
-    "prev_month": -0.2
-  },
-  {
-    "label": "Februar 2025",
-    "price": 120.8,
-    "prev_year": 2.3,
-    "prev_month": 0.4
-  },
-  {
-    "label": "M\u00e4rz 2025",
-    "price": null,
-    "prev_year": null,
-    "prev_month": null
-  },
-  {
-    "label": "April 2025",
-    "price": null,
-    "prev_year": null,
-    "prev_month": null
-  },
-  {
-    "label": "Mai 2025",
-    "price": null,
-    "prev_year": null,
-    "prev_month": null
-  },
-  {
-    "label": "Juni 2025",
-    "price": null,
-    "prev_year": null,
-    "prev_month": null
-  },
-  {
-    "label": "Juli 2025",
-    "price": null,
-    "prev_year": null,
-    "prev_month": null
-  },
-  {
-    "label": "August 2025",
-    "price": null,
-    "prev_year": null,
-    "prev_month": null
-  },
-  {
-    "label": "September 2025",
-    "price": null,
-    "prev_year": null,
-    "prev_month": null
-  },
-  {
-    "label": "Oktober 2025",
-    "price": null,
-    "prev_year": null,
-    "prev_month": null
-  },
-  {
-    "label": "November 2025",
-    "price": null,
-    "prev_year": null,
-    "prev_month": null
-  },
-  {
-    "label": "Dezember 2025",
-    "price": null,
-    "prev_year": null,
-    "prev_month": null
-  }
+  [
+    "1991-01-01T00:00:00Z",
+    60.5,
+    null,
+    null
+  ],
+  [
+    "1991-02-01T00:00:00Z",
+    60.8,
+    null,
+    0.5
+  ],
+  [
+    "1991-03-01T00:00:00Z",
+    60.8,
+    null,
+    null
+  ],
+  [
+    "1991-04-01T00:00:00Z",
+    61.0,
+    null,
+    0.3
+  ],
+  [
+    "1991-05-01T00:00:00Z",
+    61.1,
+    null,
+    0.2
+  ],
+  [
+    "1991-06-01T00:00:00Z",
+    61.5,
+    null,
+    0.7
+  ],
+  [
+    "1991-07-01T00:00:00Z",
+    62.2,
+    null,
+    1.1
+  ],
+  [
+    "1991-08-01T00:00:00Z",
+    62.2,
+    null,
+    null
+  ],
+  [
+    "1991-09-01T00:00:00Z",
+    62.2,
+    null,
+    null
+  ],
+  [
+    "1991-10-01T00:00:00Z",
+    63.2,
+    null,
+    1.6
+  ],
+  [
+    "1991-11-01T00:00:00Z",
+    63.4,
+    null,
+    0.3
+  ],
+  [
+    "1991-12-01T00:00:00Z",
+    63.5,
+    null,
+    0.2
+  ],
+  [
+    "1992-01-01T00:00:00Z",
+    63.9,
+    5.6,
+    0.6
+  ],
+  [
+    "1992-02-01T00:00:00Z",
+    64.3,
+    5.8,
+    0.6
+  ],
+  [
+    "1992-03-01T00:00:00Z",
+    64.5,
+    6.1,
+    0.3
+  ],
+  [
+    "1992-04-01T00:00:00Z",
+    64.7,
+    6.1,
+    0.3
+  ],
+  [
+    "1992-05-01T00:00:00Z",
+    64.9,
+    6.2,
+    0.3
+  ],
+  [
+    "1992-06-01T00:00:00Z",
+    65.1,
+    5.9,
+    0.3
+  ],
+  [
+    "1992-07-01T00:00:00Z",
+    65.3,
+    5.0,
+    0.3
+  ],
+  [
+    "1992-08-01T00:00:00Z",
+    65.3,
+    5.0,
+    null
+  ],
+  [
+    "1992-09-01T00:00:00Z",
+    65.3,
+    5.0,
+    null
+  ],
+  [
+    "1992-10-01T00:00:00Z",
+    65.3,
+    3.3,
+    null
+  ],
+  [
+    "1992-11-01T00:00:00Z",
+    65.6,
+    3.5,
+    0.5
+  ],
+  [
+    "1992-12-01T00:00:00Z",
+    65.7,
+    3.5,
+    0.2
+  ],
+  [
+    "1993-01-01T00:00:00Z",
+    66.8,
+    4.5,
+    1.7
+  ],
+  [
+    "1993-02-01T00:00:00Z",
+    67.3,
+    4.7,
+    0.7
+  ],
+  [
+    "1993-03-01T00:00:00Z",
+    67.5,
+    4.7,
+    0.3
+  ],
+  [
+    "1993-04-01T00:00:00Z",
+    67.7,
+    4.6,
+    0.3
+  ],
+  [
+    "1993-05-01T00:00:00Z",
+    67.8,
+    4.5,
+    0.1
+  ],
+  [
+    "1993-06-01T00:00:00Z",
+    68.0,
+    4.5,
+    0.3
+  ],
+  [
+    "1993-07-01T00:00:00Z",
+    68.3,
+    4.6,
+    0.4
+  ],
+  [
+    "1993-08-01T00:00:00Z",
+    68.3,
+    4.6,
+    null
+  ],
+  [
+    "1993-09-01T00:00:00Z",
+    68.2,
+    4.4,
+    -0.1
+  ],
+  [
+    "1993-10-01T00:00:00Z",
+    68.2,
+    4.4,
+    null
+  ],
+  [
+    "1993-11-01T00:00:00Z",
+    68.3,
+    4.1,
+    0.1
+  ],
+  [
+    "1993-12-01T00:00:00Z",
+    68.5,
+    4.3,
+    0.3
+  ],
+  [
+    "1994-01-01T00:00:00Z",
+    68.8,
+    3.0,
+    0.4
+  ],
+  [
+    "1994-02-01T00:00:00Z",
+    69.4,
+    3.1,
+    0.9
+  ],
+  [
+    "1994-03-01T00:00:00Z",
+    69.5,
+    3.0,
+    0.1
+  ],
+  [
+    "1994-04-01T00:00:00Z",
+    69.6,
+    2.8,
+    0.1
+  ],
+  [
+    "1994-05-01T00:00:00Z",
+    69.7,
+    2.8,
+    0.1
+  ],
+  [
+    "1994-06-01T00:00:00Z",
+    69.8,
+    2.6,
+    0.1
+  ],
+  [
+    "1994-07-01T00:00:00Z",
+    69.9,
+    2.3,
+    0.1
+  ],
+  [
+    "1994-08-01T00:00:00Z",
+    70.1,
+    2.6,
+    0.3
+  ],
+  [
+    "1994-09-01T00:00:00Z",
+    69.9,
+    2.5,
+    -0.3
+  ],
+  [
+    "1994-10-01T00:00:00Z",
+    69.8,
+    2.3,
+    -0.1
+  ],
+  [
+    "1994-11-01T00:00:00Z",
+    69.9,
+    2.3,
+    0.1
+  ],
+  [
+    "1994-12-01T00:00:00Z",
+    70.1,
+    2.3,
+    0.3
+  ],
+  [
+    "1995-01-01T00:00:00Z",
+    70.4,
+    2.3,
+    0.4
+  ],
+  [
+    "1995-02-01T00:00:00Z",
+    70.8,
+    2.0,
+    0.6
+  ],
+  [
+    "1995-03-01T00:00:00Z",
+    70.8,
+    1.9,
+    null
+  ],
+  [
+    "1995-04-01T00:00:00Z",
+    70.9,
+    1.9,
+    0.1
+  ],
+  [
+    "1995-05-01T00:00:00Z",
+    70.9,
+    1.7,
+    null
+  ],
+  [
+    "1995-06-01T00:00:00Z",
+    71.0,
+    1.7,
+    0.1
+  ],
+  [
+    "1995-07-01T00:00:00Z",
+    71.2,
+    1.9,
+    0.3
+  ],
+  [
+    "1995-08-01T00:00:00Z",
+    71.2,
+    1.6,
+    null
+  ],
+  [
+    "1995-09-01T00:00:00Z",
+    71.2,
+    1.9,
+    null
+  ],
+  [
+    "1995-10-01T00:00:00Z",
+    71.0,
+    1.7,
+    -0.3
+  ],
+  [
+    "1995-11-01T00:00:00Z",
+    71.0,
+    1.6,
+    null
+  ],
+  [
+    "1995-12-01T00:00:00Z",
+    71.2,
+    1.6,
+    0.3
+  ],
+  [
+    "1996-01-01T00:00:00Z",
+    71.4,
+    1.4,
+    0.3
+  ],
+  [
+    "1996-02-01T00:00:00Z",
+    71.8,
+    1.4,
+    0.6
+  ],
+  [
+    "1996-03-01T00:00:00Z",
+    71.8,
+    1.4,
+    null
+  ],
+  [
+    "1996-04-01T00:00:00Z",
+    71.8,
+    1.3,
+    null
+  ],
+  [
+    "1996-05-01T00:00:00Z",
+    71.9,
+    1.4,
+    0.1
+  ],
+  [
+    "1996-06-01T00:00:00Z",
+    72.0,
+    1.4,
+    0.1
+  ],
+  [
+    "1996-07-01T00:00:00Z",
+    72.1,
+    1.3,
+    0.1
+  ],
+  [
+    "1996-08-01T00:00:00Z",
+    72.1,
+    1.3,
+    null
+  ],
+  [
+    "1996-09-01T00:00:00Z",
+    72.1,
+    1.3,
+    null
+  ],
+  [
+    "1996-10-01T00:00:00Z",
+    72.1,
+    1.5,
+    null
+  ],
+  [
+    "1996-11-01T00:00:00Z",
+    72.0,
+    1.4,
+    -0.1
+  ],
+  [
+    "1996-12-01T00:00:00Z",
+    72.3,
+    1.5,
+    0.4
+  ],
+  [
+    "1997-01-01T00:00:00Z",
+    72.9,
+    2.1,
+    0.8
+  ],
+  [
+    "1997-02-01T00:00:00Z",
+    73.0,
+    1.7,
+    0.1
+  ],
+  [
+    "1997-03-01T00:00:00Z",
+    73.0,
+    1.7,
+    null
+  ],
+  [
+    "1997-04-01T00:00:00Z",
+    72.9,
+    1.5,
+    -0.1
+  ],
+  [
+    "1997-05-01T00:00:00Z",
+    73.1,
+    1.7,
+    0.3
+  ],
+  [
+    "1997-06-01T00:00:00Z",
+    73.1,
+    1.5,
+    null
+  ],
+  [
+    "1997-07-01T00:00:00Z",
+    73.8,
+    2.4,
+    1.0
+  ],
+  [
+    "1997-08-01T00:00:00Z",
+    73.8,
+    2.4,
+    null
+  ],
+  [
+    "1997-09-01T00:00:00Z",
+    73.7,
+    2.2,
+    -0.1
+  ],
+  [
+    "1997-10-01T00:00:00Z",
+    73.6,
+    2.1,
+    -0.1
+  ],
+  [
+    "1997-11-01T00:00:00Z",
+    73.6,
+    2.2,
+    null
+  ],
+  [
+    "1997-12-01T00:00:00Z",
+    73.8,
+    2.1,
+    0.3
+  ],
+  [
+    "1998-01-01T00:00:00Z",
+    73.8,
+    1.2,
+    null
+  ],
+  [
+    "1998-02-01T00:00:00Z",
+    73.9,
+    1.2,
+    0.1
+  ],
+  [
+    "1998-03-01T00:00:00Z",
+    73.8,
+    1.1,
+    -0.1
+  ],
+  [
+    "1998-04-01T00:00:00Z",
+    73.9,
+    1.4,
+    0.1
+  ],
+  [
+    "1998-05-01T00:00:00Z",
+    74.0,
+    1.2,
+    0.1
+  ],
+  [
+    "1998-06-01T00:00:00Z",
+    74.1,
+    1.4,
+    0.1
+  ],
+  [
+    "1998-07-01T00:00:00Z",
+    74.4,
+    0.8,
+    0.4
+  ],
+  [
+    "1998-08-01T00:00:00Z",
+    74.2,
+    0.5,
+    -0.3
+  ],
+  [
+    "1998-09-01T00:00:00Z",
+    74.0,
+    0.4,
+    -0.3
+  ],
+  [
+    "1998-10-01T00:00:00Z",
+    73.9,
+    0.4,
+    -0.1
+  ],
+  [
+    "1998-11-01T00:00:00Z",
+    73.9,
+    0.4,
+    null
+  ],
+  [
+    "1998-12-01T00:00:00Z",
+    74.0,
+    0.3,
+    0.1
+  ],
+  [
+    "1999-01-01T00:00:00Z",
+    73.9,
+    0.1,
+    -0.1
+  ],
+  [
+    "1999-02-01T00:00:00Z",
+    74.0,
+    0.1,
+    0.1
+  ],
+  [
+    "1999-03-01T00:00:00Z",
+    74.0,
+    0.3,
+    null
+  ],
+  [
+    "1999-04-01T00:00:00Z",
+    74.4,
+    0.7,
+    0.5
+  ],
+  [
+    "1999-05-01T00:00:00Z",
+    74.4,
+    0.5,
+    null
+  ],
+  [
+    "1999-06-01T00:00:00Z",
+    74.5,
+    0.5,
+    0.1
+  ],
+  [
+    "1999-07-01T00:00:00Z",
+    74.8,
+    0.5,
+    0.4
+  ],
+  [
+    "1999-08-01T00:00:00Z",
+    74.8,
+    0.8,
+    null
+  ],
+  [
+    "1999-09-01T00:00:00Z",
+    74.6,
+    0.8,
+    -0.3
+  ],
+  [
+    "1999-10-01T00:00:00Z",
+    74.5,
+    0.8,
+    -0.1
+  ],
+  [
+    "1999-11-01T00:00:00Z",
+    74.7,
+    1.1,
+    0.3
+  ],
+  [
+    "1999-12-01T00:00:00Z",
+    74.9,
+    1.2,
+    0.3
+  ],
+  [
+    "2000-01-01T00:00:00Z",
+    75.1,
+    1.6,
+    0.3
+  ],
+  [
+    "2000-02-01T00:00:00Z",
+    75.1,
+    1.5,
+    null
+  ],
+  [
+    "2000-03-01T00:00:00Z",
+    75.1,
+    1.5,
+    null
+  ],
+  [
+    "2000-04-01T00:00:00Z",
+    75.1,
+    0.9,
+    null
+  ],
+  [
+    "2000-05-01T00:00:00Z",
+    75.1,
+    0.9,
+    null
+  ],
+  [
+    "2000-06-01T00:00:00Z",
+    75.4,
+    1.2,
+    0.4
+  ],
+  [
+    "2000-07-01T00:00:00Z",
+    75.8,
+    1.3,
+    0.5
+  ],
+  [
+    "2000-08-01T00:00:00Z",
+    75.6,
+    1.1,
+    -0.3
+  ],
+  [
+    "2000-09-01T00:00:00Z",
+    75.8,
+    1.6,
+    0.3
+  ],
+  [
+    "2000-10-01T00:00:00Z",
+    75.7,
+    1.6,
+    -0.1
+  ],
+  [
+    "2000-11-01T00:00:00Z",
+    75.8,
+    1.5,
+    0.1
+  ],
+  [
+    "2000-12-01T00:00:00Z",
+    76.4,
+    2.0,
+    0.8
+  ],
+  [
+    "2001-01-01T00:00:00Z",
+    76.2,
+    1.5,
+    -0.3
+  ],
+  [
+    "2001-02-01T00:00:00Z",
+    76.6,
+    2.0,
+    0.5
+  ],
+  [
+    "2001-03-01T00:00:00Z",
+    76.6,
+    2.0,
+    null
+  ],
+  [
+    "2001-04-01T00:00:00Z",
+    76.9,
+    2.4,
+    0.4
+  ],
+  [
+    "2001-05-01T00:00:00Z",
+    77.2,
+    2.8,
+    0.4
+  ],
+  [
+    "2001-06-01T00:00:00Z",
+    77.3,
+    2.5,
+    0.1
+  ],
+  [
+    "2001-07-01T00:00:00Z",
+    77.4,
+    2.1,
+    0.1
+  ],
+  [
+    "2001-08-01T00:00:00Z",
+    77.2,
+    2.1,
+    -0.3
+  ],
+  [
+    "2001-09-01T00:00:00Z",
+    77.2,
+    1.8,
+    null
+  ],
+  [
+    "2001-10-01T00:00:00Z",
+    77.1,
+    1.8,
+    -0.1
+  ],
+  [
+    "2001-11-01T00:00:00Z",
+    76.9,
+    1.5,
+    -0.3
+  ],
+  [
+    "2001-12-01T00:00:00Z",
+    77.7,
+    1.7,
+    1.0
+  ],
+  [
+    "2002-01-01T00:00:00Z",
+    77.7,
+    2.0,
+    null
+  ],
+  [
+    "2002-02-01T00:00:00Z",
+    78.0,
+    1.8,
+    0.4
+  ],
+  [
+    "2002-03-01T00:00:00Z",
+    78.2,
+    2.1,
+    0.3
+  ],
+  [
+    "2002-04-01T00:00:00Z",
+    78.1,
+    1.6,
+    -0.1
+  ],
+  [
+    "2002-05-01T00:00:00Z",
+    78.2,
+    1.3,
+    0.1
+  ],
+  [
+    "2002-06-01T00:00:00Z",
+    78.2,
+    1.2,
+    null
+  ],
+  [
+    "2002-07-01T00:00:00Z",
+    78.3,
+    1.2,
+    0.1
+  ],
+  [
+    "2002-08-01T00:00:00Z",
+    78.2,
+    1.3,
+    -0.1
+  ],
+  [
+    "2002-09-01T00:00:00Z",
+    78.2,
+    1.3,
+    null
+  ],
+  [
+    "2002-10-01T00:00:00Z",
+    78.1,
+    1.3,
+    -0.1
+  ],
+  [
+    "2002-11-01T00:00:00Z",
+    77.8,
+    1.2,
+    -0.4
+  ],
+  [
+    "2002-12-01T00:00:00Z",
+    78.5,
+    1.0,
+    0.9
+  ],
+  [
+    "2003-01-01T00:00:00Z",
+    78.5,
+    1.0,
+    null
+  ],
+  [
+    "2003-02-01T00:00:00Z",
+    79.0,
+    1.3,
+    0.6
+  ],
+  [
+    "2003-03-01T00:00:00Z",
+    79.0,
+    1.0,
+    null
+  ],
+  [
+    "2003-04-01T00:00:00Z",
+    78.8,
+    0.9,
+    -0.3
+  ],
+  [
+    "2003-05-01T00:00:00Z",
+    78.6,
+    0.5,
+    -0.3
+  ],
+  [
+    "2003-06-01T00:00:00Z",
+    78.9,
+    0.9,
+    0.4
+  ],
+  [
+    "2003-07-01T00:00:00Z",
+    79.0,
+    0.9,
+    0.1
+  ],
+  [
+    "2003-08-01T00:00:00Z",
+    79.0,
+    1.0,
+    null
+  ],
+  [
+    "2003-09-01T00:00:00Z",
+    79.0,
+    1.0,
+    null
+  ],
+  [
+    "2003-10-01T00:00:00Z",
+    79.0,
+    1.2,
+    null
+  ],
+  [
+    "2003-11-01T00:00:00Z",
+    78.8,
+    1.3,
+    -0.3
+  ],
+  [
+    "2003-12-01T00:00:00Z",
+    79.4,
+    1.1,
+    0.8
+  ],
+  [
+    "2004-01-01T00:00:00Z",
+    79.4,
+    1.1,
+    null
+  ],
+  [
+    "2004-02-01T00:00:00Z",
+    79.6,
+    0.8,
+    0.3
+  ],
+  [
+    "2004-03-01T00:00:00Z",
+    79.9,
+    1.1,
+    0.4
+  ],
+  [
+    "2004-04-01T00:00:00Z",
+    80.1,
+    1.6,
+    0.3
+  ],
+  [
+    "2004-05-01T00:00:00Z",
+    80.3,
+    2.2,
+    0.2
+  ],
+  [
+    "2004-06-01T00:00:00Z",
+    80.3,
+    1.8,
+    null
+  ],
+  [
+    "2004-07-01T00:00:00Z",
+    80.4,
+    1.8,
+    0.1
+  ],
+  [
+    "2004-08-01T00:00:00Z",
+    80.5,
+    1.9,
+    0.1
+  ],
+  [
+    "2004-09-01T00:00:00Z",
+    80.3,
+    1.6,
+    -0.2
+  ],
+  [
+    "2004-10-01T00:00:00Z",
+    80.4,
+    1.8,
+    0.1
+  ],
+  [
+    "2004-11-01T00:00:00Z",
+    80.3,
+    1.9,
+    -0.1
+  ],
+  [
+    "2004-12-01T00:00:00Z",
+    81.2,
+    2.3,
+    1.1
+  ],
+  [
+    "2005-01-01T00:00:00Z",
+    80.6,
+    1.5,
+    -0.7
+  ],
+  [
+    "2005-02-01T00:00:00Z",
+    80.9,
+    1.6,
+    0.4
+  ],
+  [
+    "2005-03-01T00:00:00Z",
+    81.3,
+    1.8,
+    0.5
+  ],
+  [
+    "2005-04-01T00:00:00Z",
+    81.0,
+    1.1,
+    -0.4
+  ],
+  [
+    "2005-05-01T00:00:00Z",
+    81.2,
+    1.1,
+    0.2
+  ],
+  [
+    "2005-06-01T00:00:00Z",
+    81.3,
+    1.2,
+    0.1
+  ],
+  [
+    "2005-07-01T00:00:00Z",
+    81.7,
+    1.6,
+    0.5
+  ],
+  [
+    "2005-08-01T00:00:00Z",
+    81.8,
+    1.6,
+    0.1
+  ],
+  [
+    "2005-09-01T00:00:00Z",
+    81.9,
+    2.0,
+    0.1
+  ],
+  [
+    "2005-10-01T00:00:00Z",
+    81.9,
+    1.9,
+    null
+  ],
+  [
+    "2005-11-01T00:00:00Z",
+    81.7,
+    1.7,
+    -0.2
+  ],
+  [
+    "2005-12-01T00:00:00Z",
+    82.3,
+    1.4,
+    0.7
+  ],
+  [
+    "2006-01-01T00:00:00Z",
+    82.0,
+    1.7,
+    -0.4
+  ],
+  [
+    "2006-02-01T00:00:00Z",
+    82.4,
+    1.9,
+    0.5
+  ],
+  [
+    "2006-03-01T00:00:00Z",
+    82.4,
+    1.4,
+    null
+  ],
+  [
+    "2006-04-01T00:00:00Z",
+    82.7,
+    2.1,
+    0.4
+  ],
+  [
+    "2006-05-01T00:00:00Z",
+    82.7,
+    1.8,
+    null
+  ],
+  [
+    "2006-06-01T00:00:00Z",
+    82.9,
+    2.0,
+    0.2
+  ],
+  [
+    "2006-07-01T00:00:00Z",
+    83.2,
+    1.8,
+    0.4
+  ],
+  [
+    "2006-08-01T00:00:00Z",
+    83.0,
+    1.5,
+    -0.2
+  ],
+  [
+    "2006-09-01T00:00:00Z",
+    82.7,
+    1.0,
+    -0.4
+  ],
+  [
+    "2006-10-01T00:00:00Z",
+    82.8,
+    1.1,
+    0.1
+  ],
+  [
+    "2006-11-01T00:00:00Z",
+    82.8,
+    1.3,
+    null
+  ],
+  [
+    "2006-12-01T00:00:00Z",
+    83.5,
+    1.5,
+    0.8
+  ],
+  [
+    "2007-01-01T00:00:00Z",
+    83.5,
+    1.8,
+    null
+  ],
+  [
+    "2007-02-01T00:00:00Z",
+    83.8,
+    1.7,
+    0.4
+  ],
+  [
+    "2007-03-01T00:00:00Z",
+    84.0,
+    1.9,
+    0.2
+  ],
+  [
+    "2007-04-01T00:00:00Z",
+    84.4,
+    2.1,
+    0.5
+  ],
+  [
+    "2007-05-01T00:00:00Z",
+    84.4,
+    2.1,
+    null
+  ],
+  [
+    "2007-06-01T00:00:00Z",
+    84.5,
+    1.9,
+    0.1
+  ],
+  [
+    "2007-07-01T00:00:00Z",
+    84.9,
+    2.0,
+    0.5
+  ],
+  [
+    "2007-08-01T00:00:00Z",
+    84.8,
+    2.2,
+    -0.1
+  ],
+  [
+    "2007-09-01T00:00:00Z",
+    84.9,
+    2.7,
+    0.1
+  ],
+  [
+    "2007-10-01T00:00:00Z",
+    85.1,
+    2.8,
+    0.2
+  ],
+  [
+    "2007-11-01T00:00:00Z",
+    85.6,
+    3.4,
+    0.6
+  ],
+  [
+    "2007-12-01T00:00:00Z",
+    86.1,
+    3.1,
+    0.6
+  ],
+  [
+    "2008-01-01T00:00:00Z",
+    85.8,
+    2.8,
+    -0.3
+  ],
+  [
+    "2008-02-01T00:00:00Z",
+    86.2,
+    2.9,
+    0.5
+  ],
+  [
+    "2008-03-01T00:00:00Z",
+    86.6,
+    3.1,
+    0.5
+  ],
+  [
+    "2008-04-01T00:00:00Z",
+    86.4,
+    2.4,
+    -0.2
+  ],
+  [
+    "2008-05-01T00:00:00Z",
+    86.9,
+    3.0,
+    0.6
+  ],
+  [
+    "2008-06-01T00:00:00Z",
+    87.2,
+    3.2,
+    0.3
+  ],
+  [
+    "2008-07-01T00:00:00Z",
+    87.7,
+    3.3,
+    0.6
+  ],
+  [
+    "2008-08-01T00:00:00Z",
+    87.4,
+    3.1,
+    -0.3
+  ],
+  [
+    "2008-09-01T00:00:00Z",
+    87.4,
+    2.9,
+    null
+  ],
+  [
+    "2008-10-01T00:00:00Z",
+    87.2,
+    2.5,
+    -0.2
+  ],
+  [
+    "2008-11-01T00:00:00Z",
+    86.8,
+    1.4,
+    -0.5
+  ],
+  [
+    "2008-12-01T00:00:00Z",
+    87.0,
+    1.0,
+    0.2
+  ],
+  [
+    "2009-01-01T00:00:00Z",
+    86.6,
+    0.9,
+    -0.5
+  ],
+  [
+    "2009-02-01T00:00:00Z",
+    87.1,
+    1.0,
+    0.6
+  ],
+  [
+    "2009-03-01T00:00:00Z",
+    87.0,
+    0.5,
+    -0.1
+  ],
+  [
+    "2009-04-01T00:00:00Z",
+    87.0,
+    0.7,
+    null
+  ],
+  [
+    "2009-05-01T00:00:00Z",
+    87.0,
+    0.1,
+    null
+  ],
+  [
+    "2009-06-01T00:00:00Z",
+    87.3,
+    0.1,
+    0.3
+  ],
+  [
+    "2009-07-01T00:00:00Z",
+    87.3,
+    -0.5,
+    null
+  ],
+  [
+    "2009-08-01T00:00:00Z",
+    87.5,
+    0.1,
+    0.2
+  ],
+  [
+    "2009-09-01T00:00:00Z",
+    87.1,
+    -0.3,
+    -0.5
+  ],
+  [
+    "2009-10-01T00:00:00Z",
+    87.2,
+    null,
+    0.1
+  ],
+  [
+    "2009-11-01T00:00:00Z",
+    87.1,
+    0.3,
+    -0.1
+  ],
+  [
+    "2009-12-01T00:00:00Z",
+    87.8,
+    0.9,
+    0.8
+  ],
+  [
+    "2010-01-01T00:00:00Z",
+    87.3,
+    0.8,
+    -0.6
+  ],
+  [
+    "2010-02-01T00:00:00Z",
+    87.6,
+    0.6,
+    0.3
+  ],
+  [
+    "2010-03-01T00:00:00Z",
+    88.1,
+    1.3,
+    0.6
+  ],
+  [
+    "2010-04-01T00:00:00Z",
+    88.1,
+    1.3,
+    null
+  ],
+  [
+    "2010-05-01T00:00:00Z",
+    88.1,
+    1.3,
+    null
+  ],
+  [
+    "2010-06-01T00:00:00Z",
+    88.1,
+    0.9,
+    null
+  ],
+  [
+    "2010-07-01T00:00:00Z",
+    88.2,
+    1.0,
+    0.1
+  ],
+  [
+    "2010-08-01T00:00:00Z",
+    88.3,
+    0.9,
+    0.1
+  ],
+  [
+    "2010-09-01T00:00:00Z",
+    88.2,
+    1.3,
+    -0.1
+  ],
+  [
+    "2010-10-01T00:00:00Z",
+    88.3,
+    1.3,
+    0.1
+  ],
+  [
+    "2010-11-01T00:00:00Z",
+    88.4,
+    1.5,
+    0.1
+  ],
+  [
+    "2010-12-01T00:00:00Z",
+    89.0,
+    1.4,
+    0.7
+  ],
+  [
+    "2011-01-01T00:00:00Z",
+    88.7,
+    1.6,
+    -0.3
+  ],
+  [
+    "2011-02-01T00:00:00Z",
+    89.3,
+    1.9,
+    0.7
+  ],
+  [
+    "2011-03-01T00:00:00Z",
+    89.8,
+    1.9,
+    0.6
+  ],
+  [
+    "2011-04-01T00:00:00Z",
+    89.8,
+    1.9,
+    null
+  ],
+  [
+    "2011-05-01T00:00:00Z",
+    89.8,
+    1.9,
+    null
+  ],
+  [
+    "2011-06-01T00:00:00Z",
+    89.9,
+    2.0,
+    0.1
+  ],
+  [
+    "2011-07-01T00:00:00Z",
+    90.1,
+    2.2,
+    0.2
+  ],
+  [
+    "2011-08-01T00:00:00Z",
+    90.2,
+    2.2,
+    0.1
+  ],
+  [
+    "2011-09-01T00:00:00Z",
+    90.3,
+    2.4,
+    0.1
+  ],
+  [
+    "2011-10-01T00:00:00Z",
+    90.4,
+    2.4,
+    0.1
+  ],
+  [
+    "2011-11-01T00:00:00Z",
+    90.5,
+    2.4,
+    0.1
+  ],
+  [
+    "2011-12-01T00:00:00Z",
+    90.7,
+    1.9,
+    0.2
+  ],
+  [
+    "2012-01-01T00:00:00Z",
+    90.6,
+    2.1,
+    -0.1
+  ],
+  [
+    "2012-02-01T00:00:00Z",
+    91.2,
+    2.1,
+    0.7
+  ],
+  [
+    "2012-03-01T00:00:00Z",
+    91.7,
+    2.1,
+    0.5
+  ],
+  [
+    "2012-04-01T00:00:00Z",
+    91.6,
+    2.0,
+    -0.1
+  ],
+  [
+    "2012-05-01T00:00:00Z",
+    91.5,
+    1.9,
+    -0.1
+  ],
+  [
+    "2012-06-01T00:00:00Z",
+    91.4,
+    1.7,
+    -0.1
+  ],
+  [
+    "2012-07-01T00:00:00Z",
+    91.7,
+    1.8,
+    0.3
+  ],
+  [
+    "2012-08-01T00:00:00Z",
+    92.1,
+    2.1,
+    0.4
+  ],
+  [
+    "2012-09-01T00:00:00Z",
+    92.2,
+    2.1,
+    0.1
+  ],
+  [
+    "2012-10-01T00:00:00Z",
+    92.2,
+    2.0,
+    null
+  ],
+  [
+    "2012-11-01T00:00:00Z",
+    92.2,
+    1.9,
+    null
+  ],
+  [
+    "2012-12-01T00:00:00Z",
+    92.5,
+    2.0,
+    0.3
+  ],
+  [
+    "2013-01-01T00:00:00Z",
+    92.1,
+    1.7,
+    -0.4
+  ],
+  [
+    "2013-02-01T00:00:00Z",
+    92.6,
+    1.5,
+    0.5
+  ],
+  [
+    "2013-03-01T00:00:00Z",
+    93.0,
+    1.4,
+    0.4
+  ],
+  [
+    "2013-04-01T00:00:00Z",
+    92.6,
+    1.1,
+    -0.4
+  ],
+  [
+    "2013-05-01T00:00:00Z",
+    93.0,
+    1.6,
+    0.4
+  ],
+  [
+    "2013-06-01T00:00:00Z",
+    93.1,
+    1.9,
+    0.1
+  ],
+  [
+    "2013-07-01T00:00:00Z",
+    93.5,
+    2.0,
+    0.4
+  ],
+  [
+    "2013-08-01T00:00:00Z",
+    93.5,
+    1.5,
+    null
+  ],
+  [
+    "2013-09-01T00:00:00Z",
+    93.5,
+    1.4,
+    null
+  ],
+  [
+    "2013-10-01T00:00:00Z",
+    93.3,
+    1.2,
+    -0.2
+  ],
+  [
+    "2013-11-01T00:00:00Z",
+    93.5,
+    1.4,
+    0.2
+  ],
+  [
+    "2013-12-01T00:00:00Z",
+    93.9,
+    1.5,
+    0.4
+  ],
+  [
+    "2014-01-01T00:00:00Z",
+    93.3,
+    1.3,
+    -0.6
+  ],
+  [
+    "2014-02-01T00:00:00Z",
+    93.8,
+    1.3,
+    0.5
+  ],
+  [
+    "2014-03-01T00:00:00Z",
+    94.0,
+    1.1,
+    0.2
+  ],
+  [
+    "2014-04-01T00:00:00Z",
+    93.9,
+    1.4,
+    -0.1
+  ],
+  [
+    "2014-05-01T00:00:00Z",
+    93.8,
+    0.9,
+    -0.1
+  ],
+  [
+    "2014-06-01T00:00:00Z",
+    94.0,
+    1.0,
+    0.2
+  ],
+  [
+    "2014-07-01T00:00:00Z",
+    94.3,
+    0.9,
+    0.3
+  ],
+  [
+    "2014-08-01T00:00:00Z",
+    94.3,
+    0.9,
+    null
+  ],
+  [
+    "2014-09-01T00:00:00Z",
+    94.3,
+    0.9,
+    null
+  ],
+  [
+    "2014-10-01T00:00:00Z",
+    94.1,
+    0.9,
+    -0.2
+  ],
+  [
+    "2014-11-01T00:00:00Z",
+    94.1,
+    0.6,
+    null
+  ],
+  [
+    "2014-12-01T00:00:00Z",
+    94.0,
+    0.1,
+    -0.1
+  ],
+  [
+    "2015-01-01T00:00:00Z",
+    93.1,
+    -0.2,
+    -1.0
+  ],
+  [
+    "2015-02-01T00:00:00Z",
+    93.8,
+    null,
+    0.8
+  ],
+  [
+    "2015-03-01T00:00:00Z",
+    94.3,
+    0.3,
+    0.5
+  ],
+  [
+    "2015-04-01T00:00:00Z",
+    94.7,
+    0.9,
+    0.4
+  ],
+  [
+    "2015-05-01T00:00:00Z",
+    94.9,
+    1.2,
+    0.2
+  ],
+  [
+    "2015-06-01T00:00:00Z",
+    94.9,
+    1.0,
+    null
+  ],
+  [
+    "2015-07-01T00:00:00Z",
+    95.1,
+    0.8,
+    0.2
+  ],
+  [
+    "2015-08-01T00:00:00Z",
+    95.0,
+    0.7,
+    -0.1
+  ],
+  [
+    "2015-09-01T00:00:00Z",
+    94.9,
+    0.6,
+    -0.1
+  ],
+  [
+    "2015-10-01T00:00:00Z",
+    94.9,
+    0.9,
+    null
+  ],
+  [
+    "2015-11-01T00:00:00Z",
+    94.3,
+    0.2,
+    -0.6
+  ],
+  [
+    "2015-12-01T00:00:00Z",
+    94.3,
+    0.3,
+    null
+  ],
+  [
+    "2016-01-01T00:00:00Z",
+    93.6,
+    0.5,
+    -0.7
+  ],
+  [
+    "2016-02-01T00:00:00Z",
+    93.9,
+    0.1,
+    0.3
+  ],
+  [
+    "2016-03-01T00:00:00Z",
+    94.5,
+    0.2,
+    0.6
+  ],
+  [
+    "2016-04-01T00:00:00Z",
+    94.6,
+    -0.1,
+    0.1
+  ],
+  [
+    "2016-05-01T00:00:00Z",
+    95.1,
+    0.2,
+    0.5
+  ],
+  [
+    "2016-06-01T00:00:00Z",
+    95.2,
+    0.3,
+    0.1
+  ],
+  [
+    "2016-07-01T00:00:00Z",
+    95.5,
+    0.4,
+    0.3
+  ],
+  [
+    "2016-08-01T00:00:00Z",
+    95.4,
+    0.4,
+    -0.1
+  ],
+  [
+    "2016-09-01T00:00:00Z",
+    95.5,
+    0.6,
+    0.1
+  ],
+  [
+    "2016-10-01T00:00:00Z",
+    95.6,
+    0.7,
+    0.1
+  ],
+  [
+    "2016-11-01T00:00:00Z",
+    95.0,
+    0.7,
+    -0.6
+  ],
+  [
+    "2016-12-01T00:00:00Z",
+    95.6,
+    1.4,
+    0.6
+  ],
+  [
+    "2017-01-01T00:00:00Z",
+    95.1,
+    1.6,
+    -0.5
+  ],
+  [
+    "2017-02-01T00:00:00Z",
+    95.6,
+    1.8,
+    0.5
+  ],
+  [
+    "2017-03-01T00:00:00Z",
+    95.8,
+    1.4,
+    0.2
+  ],
+  [
+    "2017-04-01T00:00:00Z",
+    96.2,
+    1.7,
+    0.4
+  ],
+  [
+    "2017-05-01T00:00:00Z",
+    96.2,
+    1.2,
+    null
+  ],
+  [
+    "2017-06-01T00:00:00Z",
+    96.5,
+    1.4,
+    0.3
+  ],
+  [
+    "2017-07-01T00:00:00Z",
+    96.9,
+    1.5,
+    0.4
+  ],
+  [
+    "2017-08-01T00:00:00Z",
+    97.0,
+    1.7,
+    0.1
+  ],
+  [
+    "2017-09-01T00:00:00Z",
+    97.0,
+    1.6,
+    null
+  ],
+  [
+    "2017-10-01T00:00:00Z",
+    96.9,
+    1.4,
+    -0.1
+  ],
+  [
+    "2017-11-01T00:00:00Z",
+    96.5,
+    1.6,
+    -0.4
+  ],
+  [
+    "2017-12-01T00:00:00Z",
+    96.9,
+    1.4,
+    0.4
+  ],
+  [
+    "2018-01-01T00:00:00Z",
+    96.4,
+    1.4,
+    -0.5
+  ],
+  [
+    "2018-02-01T00:00:00Z",
+    96.7,
+    1.2,
+    0.3
+  ],
+  [
+    "2018-03-01T00:00:00Z",
+    97.2,
+    1.5,
+    0.5
+  ],
+  [
+    "2018-04-01T00:00:00Z",
+    97.5,
+    1.4,
+    0.3
+  ],
+  [
+    "2018-05-01T00:00:00Z",
+    98.2,
+    2.1,
+    0.7
+  ],
+  [
+    "2018-06-01T00:00:00Z",
+    98.3,
+    1.9,
+    0.1
+  ],
+  [
+    "2018-07-01T00:00:00Z",
+    98.7,
+    1.9,
+    0.4
+  ],
+  [
+    "2018-08-01T00:00:00Z",
+    98.8,
+    1.9,
+    0.1
+  ],
+  [
+    "2018-09-01T00:00:00Z",
+    99.0,
+    2.1,
+    0.2
+  ],
+  [
+    "2018-10-01T00:00:00Z",
+    99.1,
+    2.3,
+    0.1
+  ],
+  [
+    "2018-11-01T00:00:00Z",
+    98.5,
+    2.1,
+    -0.6
+  ],
+  [
+    "2018-12-01T00:00:00Z",
+    98.5,
+    1.7,
+    null
+  ],
+  [
+    "2019-01-01T00:00:00Z",
+    97.7,
+    1.3,
+    -0.8
+  ],
+  [
+    "2019-02-01T00:00:00Z",
+    98.1,
+    1.4,
+    0.4
+  ],
+  [
+    "2019-03-01T00:00:00Z",
+    98.5,
+    1.3,
+    0.4
+  ],
+  [
+    "2019-04-01T00:00:00Z",
+    99.4,
+    1.9,
+    0.9
+  ],
+  [
+    "2019-05-01T00:00:00Z",
+    99.6,
+    1.4,
+    0.2
+  ],
+  [
+    "2019-06-01T00:00:00Z",
+    99.9,
+    1.6,
+    0.3
+  ],
+  [
+    "2019-07-01T00:00:00Z",
+    100.3,
+    1.6,
+    0.4
+  ],
+  [
+    "2019-08-01T00:00:00Z",
+    100.2,
+    1.4,
+    -0.1
+  ],
+  [
+    "2019-09-01T00:00:00Z",
+    100.2,
+    1.2,
+    null
+  ],
+  [
+    "2019-10-01T00:00:00Z",
+    100.2,
+    1.1,
+    null
+  ],
+  [
+    "2019-11-01T00:00:00Z",
+    99.5,
+    1.0,
+    -0.7
+  ],
+  [
+    "2019-12-01T00:00:00Z",
+    100.0,
+    1.5,
+    0.5
+  ],
+  [
+    "2020-01-01T00:00:00Z",
+    99.8,
+    2.1,
+    -0.2
+  ],
+  [
+    "2020-02-01T00:00:00Z",
+    100.1,
+    2.0,
+    0.3
+  ],
+  [
+    "2020-03-01T00:00:00Z",
+    100.3,
+    1.8,
+    0.2
+  ],
+  [
+    "2020-04-01T00:00:00Z",
+    100.4,
+    1.0,
+    0.1
+  ],
+  [
+    "2020-05-01T00:00:00Z",
+    100.4,
+    0.8,
+    null
+  ],
+  [
+    "2020-06-01T00:00:00Z",
+    100.5,
+    0.6,
+    0.1
+  ],
+  [
+    "2020-07-01T00:00:00Z",
+    99.7,
+    -0.6,
+    -0.8
+  ],
+  [
+    "2020-08-01T00:00:00Z",
+    99.7,
+    -0.5,
+    null
+  ],
+  [
+    "2020-09-01T00:00:00Z",
+    99.7,
+    -0.5,
+    null
+  ],
+  [
+    "2020-10-01T00:00:00Z",
+    99.9,
+    -0.3,
+    0.2
+  ],
+  [
+    "2020-11-01T00:00:00Z",
+    99.7,
+    0.2,
+    -0.2
+  ],
+  [
+    "2020-12-01T00:00:00Z",
+    99.8,
+    -0.2,
+    0.1
+  ],
+  [
+    "2021-01-01T00:00:00Z",
+    101.0,
+    1.2,
+    1.2
+  ],
+  [
+    "2021-02-01T00:00:00Z",
+    101.6,
+    1.5,
+    0.6
+  ],
+  [
+    "2021-03-01T00:00:00Z",
+    102.1,
+    1.8,
+    0.5
+  ],
+  [
+    "2021-04-01T00:00:00Z",
+    102.4,
+    2.0,
+    0.3
+  ],
+  [
+    "2021-05-01T00:00:00Z",
+    102.6,
+    2.2,
+    0.2
+  ],
+  [
+    "2021-06-01T00:00:00Z",
+    102.9,
+    2.4,
+    0.3
+  ],
+  [
+    "2021-07-01T00:00:00Z",
+    103.4,
+    3.7,
+    0.5
+  ],
+  [
+    "2021-08-01T00:00:00Z",
+    103.5,
+    3.8,
+    0.1
+  ],
+  [
+    "2021-09-01T00:00:00Z",
+    103.8,
+    4.1,
+    0.3
+  ],
+  [
+    "2021-10-01T00:00:00Z",
+    104.3,
+    4.4,
+    0.5
+  ],
+  [
+    "2021-11-01T00:00:00Z",
+    104.5,
+    4.8,
+    0.2
+  ],
+  [
+    "2021-12-01T00:00:00Z",
+    104.7,
+    4.9,
+    0.2
+  ],
+  [
+    "2022-01-01T00:00:00Z",
+    105.2,
+    4.2,
+    0.5
+  ],
+  [
+    "2022-02-01T00:00:00Z",
+    106.0,
+    4.3,
+    0.8
+  ],
+  [
+    "2022-03-01T00:00:00Z",
+    108.1,
+    5.9,
+    2.0
+  ],
+  [
+    "2022-04-01T00:00:00Z",
+    108.8,
+    6.3,
+    0.6
+  ],
+  [
+    "2022-05-01T00:00:00Z",
+    109.8,
+    7.0,
+    0.9
+  ],
+  [
+    "2022-06-01T00:00:00Z",
+    109.8,
+    6.7,
+    null
+  ],
+  [
+    "2022-07-01T00:00:00Z",
+    110.3,
+    6.7,
+    0.5
+  ],
+  [
+    "2022-08-01T00:00:00Z",
+    110.7,
+    7.0,
+    0.4
+  ],
+  [
+    "2022-09-01T00:00:00Z",
+    112.7,
+    8.6,
+    1.8
+  ],
+  [
+    "2022-10-01T00:00:00Z",
+    113.5,
+    8.8,
+    0.7
+  ],
+  [
+    "2022-11-01T00:00:00Z",
+    113.7,
+    8.8,
+    0.2
+  ],
+  [
+    "2022-12-01T00:00:00Z",
+    113.2,
+    8.1,
+    -0.4
+  ],
+  [
+    "2023-01-01T00:00:00Z",
+    114.3,
+    8.7,
+    1.0
+  ],
+  [
+    "2023-02-01T00:00:00Z",
+    115.2,
+    8.7,
+    0.8
+  ],
+  [
+    "2023-03-01T00:00:00Z",
+    116.1,
+    7.4,
+    0.8
+  ],
+  [
+    "2023-04-01T00:00:00Z",
+    116.6,
+    7.2,
+    0.4
+  ],
+  [
+    "2023-05-01T00:00:00Z",
+    116.5,
+    6.1,
+    -0.1
+  ],
+  [
+    "2023-06-01T00:00:00Z",
+    116.8,
+    6.4,
+    0.3
+  ],
+  [
+    "2023-07-01T00:00:00Z",
+    117.1,
+    6.2,
+    0.3
+  ],
+  [
+    "2023-08-01T00:00:00Z",
+    117.5,
+    6.1,
+    0.3
+  ],
+  [
+    "2023-09-01T00:00:00Z",
+    117.8,
+    4.5,
+    0.3
+  ],
+  [
+    "2023-10-01T00:00:00Z",
+    117.8,
+    3.8,
+    null
+  ],
+  [
+    "2023-11-01T00:00:00Z",
+    117.3,
+    3.2,
+    -0.4
+  ],
+  [
+    "2023-12-01T00:00:00Z",
+    117.4,
+    3.7,
+    0.1
+  ],
+  [
+    "2024-01-01T00:00:00Z",
+    117.6,
+    2.9,
+    0.2
+  ],
+  [
+    "2024-02-01T00:00:00Z",
+    118.1,
+    2.5,
+    0.4
+  ],
+  [
+    "2024-03-01T00:00:00Z",
+    118.6,
+    2.2,
+    0.4
+  ],
+  [
+    "2024-04-01T00:00:00Z",
+    119.2,
+    2.2,
+    0.5
+  ],
+  [
+    "2024-05-01T00:00:00Z",
+    119.3,
+    2.4,
+    0.1
+  ],
+  [
+    "2024-06-01T00:00:00Z",
+    119.4,
+    2.2,
+    0.1
+  ],
+  [
+    "2024-07-01T00:00:00Z",
+    119.8,
+    2.3,
+    0.3
+  ],
+  [
+    "2024-08-01T00:00:00Z",
+    119.7,
+    1.9,
+    -0.1
+  ],
+  [
+    "2024-09-01T00:00:00Z",
+    119.7,
+    1.6,
+    null
+  ],
+  [
+    "2024-10-01T00:00:00Z",
+    120.2,
+    2.0,
+    0.4
+  ],
+  [
+    "2024-11-01T00:00:00Z",
+    119.9,
+    2.2,
+    -0.2
+  ],
+  [
+    "2024-12-01T00:00:00Z",
+    120.5,
+    2.6,
+    0.5
+  ],
+  [
+    "2025-01-01T00:00:00Z",
+    120.3,
+    2.3,
+    -0.2
+  ],
+  [
+    "2025-02-01T00:00:00Z",
+    120.8,
+    2.3,
+    0.4
+  ],
+  [
+    "2025-03-01T00:00:00Z",
+    null,
+    null,
+    null
+  ],
+  [
+    "2025-04-01T00:00:00Z",
+    null,
+    null,
+    null
+  ],
+  [
+    "2025-05-01T00:00:00Z",
+    null,
+    null,
+    null
+  ],
+  [
+    "2025-06-01T00:00:00Z",
+    null,
+    null,
+    null
+  ],
+  [
+    "2025-07-01T00:00:00Z",
+    null,
+    null,
+    null
+  ],
+  [
+    "2025-08-01T00:00:00Z",
+    null,
+    null,
+    null
+  ],
+  [
+    "2025-09-01T00:00:00Z",
+    null,
+    null,
+    null
+  ],
+  [
+    "2025-10-01T00:00:00Z",
+    null,
+    null,
+    null
+  ],
+  [
+    "2025-11-01T00:00:00Z",
+    null,
+    null,
+    null
+  ],
+  [
+    "2025-12-01T00:00:00Z",
+    null,
+    null,
+    null
+  ]
 ]
